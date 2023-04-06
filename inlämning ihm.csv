@@ -1,0 +1,2001 @@
+Customer Number;Customer Name;Age;Gender;Country;Type of Commercial;Direction of Commercial;Time on Website (Min);Items Bought on Website
+0;Andres Collins;78;Man;Danmark;Sidebarreklam;Husbil-Sport;13.99;0
+1;Nathan Brown;56;Man;Norge;Sidebarreklam;Husbil-Familj;13.97;1
+2;Melissa Anthony;32;Man;Norge;Popuppreklam med musik;Husbil-Familj;0.1;0
+3;Jeremiah White;52;Man;Norge;Popuppreklam med musik;Husbil-Budget;0.1;0
+4;Eric Cross Jr.;38;Man;Norge;Popuppreklam med musik;Husbil-Sport;0.1;0
+5;Matthew Kelly;67;Man;Sverige;Sidebarreklam;Husbil-Lyx;13.84;3
+6;Ronald Clayton;71;Man;Norge;Helsidereklam;Husbil-Lyx;4.91;1
+7;Manuel Williams;33;Man;Norge;Helsidereklam;Husbil-Sport;1.17;0
+8;Sarah Andrews;74;Kvinna;Norge;Helsidereklam;Husbil-Sport;6.88;0
+9;Tina Anderson;21;Kvinna;Sverige;Sidebarreklam;Husbil-Sport;13.83;1
+10;Pam Strickland;68;Man;Sverige;Helsidereklam;Husbil-Familj;8.83;1
+11;Donna Brown;20;Man;Tyskland;Popuppreklam med musik;Husbil-Budget;0.1;0
+12;George Espinoza;67;Man;Danmark;Helsidereklam;Husbil-Budget;1.87;1
+13;Natasha Porter;36;Man;Norge;Popuppreklam med musik;Husbil-Familj;0.1;0
+14;Dana Gardner;52;Man;Sverige;Helsidereklam;Husbil-Lyx;6.62;1
+15;Christine Reynolds;60;Man;Sverige;Sidebarreklam;Husbil-Sport;13.59;3
+16;Jonathan Strickland;71;Man;Norge;Helsidereklam;Husbil-Sport;0.82;0
+17;Matthew Phillips;42;Kvinna;Danmark;Helsidereklam;Husbil-Budget;5.04;1
+18;Jerry Knox;33;Man;Norge;Helsidereklam;Husbil-Lyx;6.75;3
+19;James George;27;Man;Norge;Sidebarreklam;Husbil-Familj;13.5;0
+20;Riley Hill;26;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.1;0
+21;Bryan Wolfe;71;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;0.1;0
+22;Christopher Phillips;64;Man;Sverige;Sidebarreklam;Husbil-Lyx;13.23;2
+23;Amber Edwards MD;71;Kvinna;Tyskland;Sidebarreklam;Husbil-Lyx;13.09;1
+24;Michael Green;32;Man;Norge;Popuppreklam med musik;Husbil-Familj;0.1;0
+25;Patricia Thompson;46;Man;Norge;Sidebarreklam;Husbil-Lyx;12.84;0
+26;Theresa Jones;32;Man;Norge;Popuppreklam med musik;Husbil-Sport;0.1;0
+27;Dillon Harris;58;Man;Sverige;Helsidereklam;Husbil-Sport;3.67;1
+28;Scott Morris;31;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;0.1;0
+29;Stephen Carpenter;47;Man;Sverige;Sidebarreklam;Husbil-Familj;12.79;1
+30;Ryan Galloway;32;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;0.1;0
+31;Matthew Christian;47;Man;Norge;Sidebarreklam;Husbil-Budget;12.69;1
+32;Alejandra Steele;42;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;0.1;0
+33;Christopher Hanson;45;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+34;Sharon Scott;36;Kvinna;Norge;Sidebarreklam;Husbil-Familj;12.63;2
+35;Frank Lee;23;Man;Sverige;Sidebarreklam;Husbil-Budget;12.57;1
+36;Doris Johnston;25;Man;Norge;Helsidereklam;Husbil-Sport;1.97;0
+37;Lawrence Stanley;36;Man;Sverige;Sidebarreklam;Husbil-Lyx;12.52;1
+38;Sandra Carlson;64;Man;Danmark;Helsidereklam;Husbil-Familj;0.67;0
+39;Adam Schmidt;49;Man;Danmark;Sidebarreklam;Husbil-Familj;12.46;2
+40;Denise Harris;35;Man;Norge;Helsidereklam;Husbil-Familj;1.66;1
+41;Karla Pennington;61;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+42;Julie Johnson;34;Kvinna;Danmark;Helsidereklam;Husbil-Budget;9.79;3
+43;Ashley Rivera;64;Man;Norge;Sidebarreklam;Husbil-Familj;12.36;2
+44;Rachel Baker;44;Man;England;Helsidereklam;Husbil-Sport;4.29;2
+45;Thomas Andrews;42;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;0.1;0
+46;Jennifer Martin;73;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;0.1;0
+47;Jose Phillips;44;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;0.1;0
+48;James Miranda;55;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;12.35;1
+49;Angela Hickman;27;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+50;Jessica Perez;39;Kvinna;Sverige;Helsidereklam;Husbil-Lyx;5.03;2
+51;Stephanie Baldwin;70;Man;England;Helsidereklam;Husbil-Lyx;0.96;0
+52;Kristopher Davis;25;Man;Danmark;Popuppreklam med musik;Husbil-Lyx;0.1;0
+53;Courtney Williams;27;Man;Sverige;Sidebarreklam;Husbil-Sport;12.33;1
+54;Casey Ford;35;Kvinna;England;Popuppreklam med musik;Husbil-Familj;0.1;0
+55;Madison Turner;60;Kvinna;Danmark;Helsidereklam;Husbil-Budget;5.23;1
+56;Kim Price;62;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.1;0
+57;Andrea Green;58;Man;Sverige;Sidebarreklam;Husbil-Sport;12.27;1
+58;Alison Barnes;18;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.1;0
+59;Breanna Jackson;28;Man;Sverige;Sidebarreklam;Husbil-Sport;12.27;0
+60;Oscar Kennedy;65;Kvinna;Sverige;Popuppreklam med musik;Husbil-Lyx;0.1;0
+61;Jared Rivera;42;Man;Tyskland;Popuppreklam med musik;Husbil-Budget;0.1;0
+62;Crystal Buchanan;51;Man;Sverige;Sidebarreklam;Husbil-Budget;12.07;0
+63;Rebecca Hall;44;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;12.06;0
+64;Amber Moses;80;Man;Norge;Helsidereklam;Husbil-Budget;5.39;0
+65;Ann Bell;36;Man;Norge;Sidebarreklam;Husbil-Familj;12.02;1
+66;Cameron Martin;68;Man;Sverige;Helsidereklam;Husbil-Budget;6.12;2
+67;Joseph Wise;58;Man;Norge;Helsidereklam;Husbil-Lyx;6;1
+68;Shannon Casey;63;Man;Sverige;Helsidereklam;Husbil-Sport;5.95;1
+69;Benjamin Watkins;21;Kvinna;Danmark;Helsidereklam;Husbil-Sport;8.54;0
+70;Jeffrey Porter;35;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;0.1;0
+71;Sarah Ware;62;Kvinna;Norge;Helsidereklam;Husbil-Sport;7.34;0
+72;Eugene Howard PhD;53;Man;Sverige;Helsidereklam;Husbil-Sport;6.19;1
+73;Angela Shaw;73;Man;Sverige;Helsidereklam;Husbil-Budget;5.03;0
+74;Kyle Tran PhD;52;Man;Norge;Sidebarreklam;Husbil-Lyx;12.01;2
+75;Timothy Parks;44;Kvinna;England;Helsidereklam;Husbil-Sport;6.63;2
+76;Joshua House;19;Kvinna;Danmark;Helsidereklam;Husbil-Sport;3.98;0
+77;Donald Dickerson Jr.;63;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;4.05;2
+78;Mike Daniels;46;Man;Tyskland;Helsidereklam;Husbil-Budget;5.14;2
+79;Jennifer Mcdonald;79;Man;Sverige;Helsidereklam;Husbil-Budget;5.92;2
+80;Christie Phillips;38;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;0.1;0
+81;Susan Lee;60;Kvinna;Norge;Helsidereklam;Husbil-Budget;3.99;0
+82;Curtis Gilbert;64;Man;Sverige;Helsidereklam;Husbil-Lyx;4.59;3
+83;Jason Young;30;Kvinna;Danmark;Helsidereklam;Husbil-Budget;3.73;2
+84;David Larsen;45;Man;Norge;Sidebarreklam;Husbil-Familj;11.97;4
+85;Lawrence Wilkins;33;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;11.93;1
+86;Wesley Allen;65;Kvinna;England;Sidebarreklam;Husbil-Sport;11.93;1
+87;Leslie Marshall;48;Man;Sverige;Sidebarreklam;Husbil-Sport;11.88;1
+88;Justin Boone;40;Kvinna;Danmark;Helsidereklam;Husbil-Budget;9.6;3
+89;James Barr;38;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;0.1;0
+90;Justin Patrick;39;Kvinna;Norge;Sidebarreklam;Husbil-Sport;11.87;0
+91;Alyssa Grant;45;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;0.1;0
+92;Crystal Donovan;53;Man;Sverige;Helsidereklam;Husbil-Familj;1.62;0
+93;Sarah Holden DDS;62;Man;Danmark;Helsidereklam;Husbil-Sport;4.52;0
+94;Kathryn Ortiz;52;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;0.1;0
+95;Alyssa Noble;45;Kvinna;Norge;Helsidereklam;Husbil-Budget;5.43;1
+96;Claudia Santos;40;Man;Sverige;Sidebarreklam;Husbil-Familj;11.83;2
+97;Richard Thompson;68;Man;Tyskland;Sidebarreklam;Husbil-Lyx;11.82;1
+98;Madison Vaughn;52;Man;Norge;Sidebarreklam;Husbil-Sport;11.74;1
+99;Jennifer Welch;20;Man;Danmark;Helsidereklam;Husbil-Budget;2.57;1
+100;John Patterson;28;Man;Norge;Sidebarreklam;Husbil-Familj;11.74;0
+101;Shane Harrison;30;Man;Norge;Helsidereklam;Husbil-Lyx;2.04;0
+102;Jon Ford;53;Man;Sverige;Helsidereklam;Husbil-Familj;3.38;2
+103;Kristin Rowland;19;Man;Sverige;Helsidereklam;Husbil-Budget;3.81;0
+104;Michael Summers;44;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;11.73;3
+105;Jose Coleman;26;Kvinna;Tyskland;Helsidereklam;Husbil-Lyx;3.3;3
+106;Shirley Cook;40;Kvinna;England;Helsidereklam;Husbil-Familj;3.88;2
+107;Donald Foster;70;Man;Norge;Popuppreklam med musik;Husbil-Lyx;0.1;0
+108;Anthony Novak;66;Man;Sverige;Sidebarreklam;Husbil-Budget;11.66;0
+109;Randy Jensen;72;Man;Sverige;Sidebarreklam;Husbil-Sport;11.64;2
+110;Joshua Sosa;23;Man;Danmark;Sidebarreklam;Husbil-Lyx;11.63;1
+111;Lauren Johnson;46;Man;Sverige;Sidebarreklam;Husbil-Familj;11.62;2
+112;Jennifer Smith;22;Man;Sverige;Helsidereklam;Husbil-Familj;6.87;0
+113;Christine Contreras;61;Man;Danmark;Popuppreklam med musik;Husbil-Lyx;0.1;0
+114;Jacob Walsh;52;Kvinna;Norge;Helsidereklam;Husbil-Budget;7.06;2
+115;Jessica Lee;55;Man;Norge;Sidebarreklam;Husbil-Sport;11.61;3
+116;Mary Austin;69;Kvinna;Tyskland;Popuppreklam med musik;Husbil-Sport;0.1;0
+117;Vincent Mitchell;77;Man;Danmark;Helsidereklam;Husbil-Sport;6.95;1
+118;Cynthia Campbell;44;Kvinna;Sverige;Sidebarreklam;Husbil-Familj;11.53;0
+119;Michelle Williams;57;Man;Sverige;Sidebarreklam;Husbil-Familj;11.5;1
+120;Karen Fry;32;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;11.46;0
+121;Amanda Williams;64;Man;Norge;Popuppreklam med musik;Husbil-Familj;0.1;0
+122;Laurie Thomas;38;Man;Sverige;Sidebarreklam;Husbil-Budget;11.45;1
+123;Douglas Torres;29;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.1;0
+124;Anthony Mathis;28;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;8.27;1
+125;Mary Morgan;27;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;1.75;2
+126;Kelli Joseph;41;Man;Norge;Sidebarreklam;Husbil-Lyx;11.44;2
+127;Rodney Avila;46;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+128;Christopher Mercado;72;Man;Sverige;Sidebarreklam;Husbil-Familj;11.42;1
+129;Kevin Walker PhD;59;Man;Tyskland;Helsidereklam;Husbil-Budget;8.05;1
+130;Kerry Bass;43;Man;Norge;Helsidereklam;Husbil-Budget;4.48;1
+131;Jeffrey Brown DDS;53;Man;Norge;Popuppreklam med musik;Husbil-Sport;0.1;0
+132;Randall Brooks;29;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+133;Dr. Robert Taylor;41;Man;Danmark;Helsidereklam;Husbil-Lyx;8.02;1
+134;Julie Norris;23;Man;Norge;Helsidereklam;Husbil-Sport;1.01;0
+135;Guy Hernandez;79;Man;Sverige;Helsidereklam;Husbil-Familj;4.28;1
+136;Diana Banks;74;Man;Sverige;Sidebarreklam;Husbil-Budget;11.34;2
+137;Angelica Brooks;60;Man;Sverige;Helsidereklam;Husbil-Lyx;1.83;1
+138;Alexis Farley;41;Man;England;Sidebarreklam;Husbil-Sport;11.33;1
+139;Tina Black;65;Man;Sverige;Sidebarreklam;Husbil-Familj;11.26;0
+140;Sarah Tate;76;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;0.1;0
+141;Stephanie Lopez;44;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;0.1;0
+142;Stacy Pugh;37;Man;Sverige;Helsidereklam;Husbil-Budget;4.59;2
+143;Theresa Richards;73;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.1;0
+144;Candace Wheeler;44;Man;Sverige;Sidebarreklam;Husbil-Budget;11.25;2
+145;Pam Lewis;72;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;11.18;1
+146;Jesse Fowler;69;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;0.1;0
+147;James Garcia;36;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.1;0
+148;David Howell;70;Man;England;Sidebarreklam;Husbil-Familj;11.16;0
+149;Kimberly Hamilton;26;Man;Norge;Popuppreklam med musik;Husbil-Lyx;0.1;0
+150;Kenneth Klein;41;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;0.1;0
+151;Julia Simmons;58;Kvinna;Norge;Popuppreklam med musik;Husbil-Budget;0.1;0
+152;Randy Avery;76;Man;Sverige;Helsidereklam;Husbil-Sport;2.14;1
+153;Matthew Ramos;23;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;8.08;2
+154;Catherine Stevens;63;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;11.1;2
+155;James Oconnor DDS;45;Man;Sverige;Sidebarreklam;Husbil-Budget;11.02;2
+156;Mia Dixon;49;Man;England;Helsidereklam;Husbil-Sport;3.52;0
+157;Richard Chambers;61;Kvinna;Norge;Sidebarreklam;Husbil-Budget;10.98;1
+158;Heather Fry;66;Kvinna;Norge;Helsidereklam;Husbil-Sport;2.76;1
+159;Dwayne Lara;34;Man;Danmark;Helsidereklam;Husbil-Lyx;3.49;0
+160;Jordan Moore;27;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;10.97;1
+161;Christopher Contreras;32;Man;Danmark;Sidebarreklam;Husbil-Sport;10.96;1
+162;Lisa Calhoun;78;Man;Sverige;Sidebarreklam;Husbil-Lyx;10.95;2
+163;Justin Miller;72;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;0.1;0
+164;James Ortiz;60;Man;Norge;Sidebarreklam;Husbil-Sport;10.93;0
+165;Zachary Fowler;34;Man;Danmark;Helsidereklam;Husbil-Budget;3.32;0
+166;Rebecca West;19;Man;Sverige;Sidebarreklam;Husbil-Lyx;10.86;0
+167;Pamela Miller;34;Man;Norge;Sidebarreklam;Husbil-Sport;10.86;0
+168;Jennifer Roth;76;Man;England;Popuppreklam med musik;Husbil-Budget;0.1;0
+169;Erin Williams;80;Man;Sverige;Helsidereklam;Husbil-Lyx;6.93;1
+170;Daniel Harper;62;Man;Sverige;Sidebarreklam;Husbil-Lyx;10.84;0
+171;Vincent Yates;39;Kvinna;Danmark;Helsidereklam;Husbil-Familj;3.58;0
+172;Jacob Garza;21;Man;Sverige;Sidebarreklam;Husbil-Sport;10.83;0
+173;Mark Richardson;39;Man;Norge;Sidebarreklam;Husbil-Budget;10.82;3
+174;Ashley Ruiz;51;Man;Danmark;Sidebarreklam;Husbil-Budget;10.79;2
+175;Michael Keith;60;Man;Norge;Sidebarreklam;Husbil-Lyx;10.75;1
+176;Chad Long;71;Man;Danmark;Sidebarreklam;Husbil-Lyx;10.74;3
+177;Janet Scott;68;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;10.73;0
+178;Matthew Harris;51;Man;Norge;Popuppreklam med musik;Husbil-Sport;0.1;0
+179;Samantha Rowland;23;Man;Sverige;Helsidereklam;Husbil-Budget;8.15;0
+180;Carrie Livingston;36;Man;Norge;Sidebarreklam;Husbil-Familj;10.69;1
+181;Matthew Olson;55;Man;Sverige;Sidebarreklam;Husbil-Sport;10.67;1
+182;Nicole Barnes;47;Kvinna;Sverige;Sidebarreklam;Husbil-Familj;10.58;0
+183;Amy Charles;35;Kvinna;Norge;Popuppreklam med musik;Husbil-Budget;0.1;0
+184;Shannon Franklin;78;Man;Sverige;Helsidereklam;Husbil-Sport;5.75;1
+185;Erin Owen;48;Kvinna;Norge;Helsidereklam;Husbil-Sport;5.78;0
+186;Matthew Anthony;46;Kvinna;Norge;Helsidereklam;Husbil-Familj;8.78;2
+187;Laurie Cantu;39;Kvinna;Sverige;Sidebarreklam;Husbil-Sport;10.55;2
+188;Tina Martin;64;Man;Sverige;Sidebarreklam;Husbil-Budget;10.48;1
+189;Matthew Robinson;43;Man;Sverige;Sidebarreklam;Husbil-Sport;10.47;1
+190;Meredith Snyder;69;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;7.75;0
+191;Michelle Gutierrez;27;Man;Sverige;Helsidereklam;Husbil-Sport;8.85;0
+192;Courtney Odonnell;44;Man;Danmark;Helsidereklam;Husbil-Sport;5.01;0
+193;Michelle Price;72;Man;Sverige;Sidebarreklam;Husbil-Familj;10.44;1
+194;Jeremy Bartlett;64;Kvinna;Norge;Helsidereklam;Husbil-Familj;0.1;0
+195;Sheena Buckley PhD;43;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;0.1;0
+196;Madison Liu;55;Kvinna;Danmark;Helsidereklam;Husbil-Familj;8.78;1
+197;Robert Smith;39;Man;England;Popuppreklam med musik;Husbil-Familj;0.1;0
+198;Colleen Garrett MD;40;Man;Sverige;Sidebarreklam;Husbil-Lyx;10.43;1
+199;Christine George;78;Kvinna;Norge;Popuppreklam med musik;Husbil-Sport;0.1;0
+200;Lori Alexander;27;Man;Sverige;Sidebarreklam;Husbil-Lyx;10.37;1
+201;Vincent Thompson;51;Man;Norge;Helsidereklam;Husbil-Sport;3.7;2
+202;Amy Williams;59;Man;Sverige;Sidebarreklam;Husbil-Budget;10.35;1
+203;Melissa Gallegos;58;Man;Norge;Sidebarreklam;Husbil-Sport;10.32;3
+204;Latoya Solomon;29;Man;Sverige;Helsidereklam;Husbil-Familj;7.98;0
+205;Lindsey Vargas;38;Man;Norge;Sidebarreklam;Husbil-Lyx;10.32;0
+206;Donna Martin;25;Man;Danmark;Sidebarreklam;Husbil-Sport;10.31;1
+207;Manuel Thomas;44;Man;Sverige;Sidebarreklam;Husbil-Familj;10.29;0
+208;Paul Park;20;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;10.27;1
+209;Tina Mitchell;61;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.1;0
+210;Brenda Waters;23;Man;Norge;Helsidereklam;Husbil-Familj;1.38;0
+211;Maria Fowler;24;Kvinna;Norge;Helsidereklam;Husbil-Familj;3.92;1
+212;Jessica Baxter;54;Man;Sverige;Helsidereklam;Husbil-Budget;0.1;0
+213;Brian Hill;35;Man;Norge;Sidebarreklam;Husbil-Lyx;10.26;0
+214;Joshua Armstrong;33;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;10.23;1
+215;Anthony Mcgrath;56;Man;Norge;Helsidereklam;Husbil-Lyx;4.67;0
+216;Joyce Nunez;35;Kvinna;Norge;Popuppreklam med musik;Husbil-Sport;0.1;0
+217;Spencer Anderson;37;Man;Sverige;Helsidereklam;Husbil-Familj;7.18;2
+218;Christopher Stewart;47;Man;Sverige;Helsidereklam;Husbil-Sport;5.91;1
+219;Casey Carey;23;Man;Sverige;Helsidereklam;Husbil-Familj;0.1;0
+220;Theodore Shea;64;Man;Norge;Helsidereklam;Husbil-Lyx;8.95;1
+221;Raymond Bridges DDS;24;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+222;Julie Russell;78;Man;Danmark;Sidebarreklam;Husbil-Familj;10.23;1
+223;Adam Salinas;42;Man;Danmark;Popuppreklam med musik;Husbil-Lyx;0.1;0
+224;Justin Mcdaniel;72;Man;Sverige;Sidebarreklam;Husbil-Budget;10.21;1
+225;Dr. Stephen Dyer;77;Man;Danmark;Sidebarreklam;Husbil-Familj;10.18;0
+226;Kevin Romero;57;Man;Norge;Helsidereklam;Husbil-Lyx;5.64;0
+227;Alexis Garcia;37;Man;Sverige;Sidebarreklam;Husbil-Familj;10.16;1
+228;Michael Mack;36;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+229;Benjamin Miller;32;Man;Norge;Popuppreklam med musik;Husbil-Budget;0.1;0
+230;David Combs;60;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;0.1;0
+231;Brendan Reed;63;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;0.1;0
+232;Nicholas Cervantes;69;Man;Norge;Popuppreklam med musik;Husbil-Sport;0.1;0
+233;Stacey Dyer;49;Man;Sverige;Sidebarreklam;Husbil-Lyx;10.11;1
+234;Patricia Hayes;70;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;0.1;0
+235;Ronald Roberts;41;Kvinna;Danmark;Helsidereklam;Husbil-Familj;1.38;0
+236;Jessica Whitaker;33;Man;Sverige;Helsidereklam;Husbil-Budget;5.88;0
+237;Tyler Robinson;23;Man;Norge;Helsidereklam;Husbil-Budget;3.89;0
+238;Diana Simmons;59;Man;Sverige;Sidebarreklam;Husbil-Familj;10.1;1
+239;Alison Welch;36;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.1;0
+240;Jason Bryant;72;Man;Sverige;Helsidereklam;Husbil-Sport;1;0
+241;Shelly Scott;61;Man;England;Sidebarreklam;Husbil-Budget;10.08;0
+242;Henry Mclaughlin;36;Kvinna;Norge;Sidebarreklam;Husbil-Sport;10.06;3
+243;Clinton Williams;67;Kvinna;Norge;Popuppreklam med musik;Husbil-Sport;0.1;0
+244;Elizabeth Greene;48;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.1;0
+245;Andrea Tucker;50;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+246;Briana Robinson;50;Man;Norge;Helsidereklam;Husbil-Sport;3.37;0
+247;Christine Bishop;80;Man;Norge;Sidebarreklam;Husbil-Budget;10.04;0
+248;Deanna Finley;52;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;0.1;0
+249;Brandi Perez;63;Man;Norge;Helsidereklam;Husbil-Sport;5.08;0
+250;Kyle Jimenez;32;Man;Sverige;Helsidereklam;Husbil-Budget;8.02;0
+251;Tammy Sanders;58;Man;Norge;Sidebarreklam;Husbil-Familj;9.98;2
+252;Michael Boyd;62;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.1;0
+253;Caitlin Hill;46;Man;Tyskland;Popuppreklam med musik;Husbil-Sport;0.1;0
+254;Malik Sims;79;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.1;0
+255;Paul Grimes;72;Man;Norge;Helsidereklam;Husbil-Sport;5.73;2
+256;David Bean;37;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+257;Patrick Marquez;75;Man;Sverige;Sidebarreklam;Husbil-Lyx;9.96;1
+258;Amy Curtis;60;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+259;Kathleen Palmer;59;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;7.56;2
+260;Christian Roberts;51;Kvinna;Tyskland;Sidebarreklam;Husbil-Budget;9.96;2
+261;Julia Cox;42;Man;Sverige;Helsidereklam;Husbil-Lyx;3.59;0
+262;Roberto Welch;62;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.1;0
+263;Jay Peterson;62;Kvinna;Norge;Sidebarreklam;Husbil-Familj;9.95;1
+264;Leah Farrell;55;Man;Sverige;Helsidereklam;Husbil-Budget;6.18;1
+265;Brad Watson;26;Man;Danmark;Helsidereklam;Husbil-Lyx;5.59;1
+266;Steven Walker;24;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+267;Wendy Williams;42;Man;Norge;Popuppreklam med musik;Husbil-Lyx;0.1;0
+268;Laura Garrett;25;Man;Sverige;Helsidereklam;Husbil-Familj;4.5;0
+269;Charlene Ramirez;39;Man;Sverige;Sidebarreklam;Husbil-Familj;9.94;0
+270;Michael Davenport MD;24;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;0.1;0
+271;Colin Allen;80;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+272;Shane Gardner;24;Kvinna;Danmark;Helsidereklam;Husbil-Budget;0.74;0
+273;Matthew Cole MD;51;Kvinna;Danmark;Helsidereklam;Husbil-Sport;3.66;2
+274;Samantha Murray;30;Kvinna;Tyskland;Popuppreklam med musik;Husbil-Familj;0.1;0
+275;Joseph Clark;32;Man;Norge;Popuppreklam med musik;Husbil-Sport;0.1;0
+276;Cory George;31;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;0.1;0
+277;Melissa Thornton;20;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;9.93;2
+278;Charles Lozano;32;Man;England;Helsidereklam;Husbil-Sport;5.26;1
+279;Patricia Beck;55;Man;Sverige;Helsidereklam;Husbil-Sport;7.72;1
+280;Derrick Fowler;18;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;9.9;0
+281;Samantha Norris;41;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;0.1;0
+282;Jonathan Olson;20;Man;Danmark;Sidebarreklam;Husbil-Lyx;9.9;1
+283;Angela Holt;23;Man;Norge;Popuppreklam med musik;Husbil-Budget;0.1;0
+284;Jean Moran;18;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;9.86;2
+285;Richard Hurst;53;Man;England;Helsidereklam;Husbil-Familj;9.76;1
+286;Tammy Cruz;21;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;0.1;0
+287;Lisa Mitchell;80;Kvinna;Danmark;Helsidereklam;Husbil-Sport;4.38;1
+288;Erica Collins;33;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.1;0
+289;Joseph Horne MD;64;Man;Norge;Helsidereklam;Husbil-Sport;3.39;0
+290;Ashley Rasmussen;20;Man;Sverige;Helsidereklam;Husbil-Familj;3.04;0
+291;Matthew Johnson;45;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;0.1;0
+292;Brad Morrison;78;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;2.95;1
+293;Joshua Thomas;20;Man;Norge;Sidebarreklam;Husbil-Budget;9.85;1
+294;Judith Mcbride;40;Man;Tyskland;Helsidereklam;Husbil-Lyx;3.31;0
+295;Nathaniel Jenkins;62;Man;Sverige;Sidebarreklam;Husbil-Budget;9.81;1
+296;Jesus Parker MD;59;Man;Sverige;Helsidereklam;Husbil-Budget;5.77;2
+297;Emily Dunn;39;Kvinna;England;Popuppreklam med musik;Husbil-Budget;0.1;0
+298;Renee Kane DDS;28;Kvinna;Danmark;Helsidereklam;Husbil-Budget;8.6;2
+299;Heather Nelson;73;Man;Norge;Helsidereklam;Husbil-Lyx;1.97;1
+300;Andre Ramsey;42;Man;Sverige;Sidebarreklam;Husbil-Lyx;9.81;1
+301;Elizabeth Reed;66;Man;Danmark;Popuppreklam med musik;Husbil-Familj;0.1;0
+302;Kimberly Mccarthy;68;Kvinna;Norge;Helsidereklam;Husbil-Lyx;6.84;0
+303;Andrew Bray;22;Man;Norge;Sidebarreklam;Husbil-Familj;9.79;1
+304;Sharon Dillon;54;Kvinna;Sverige;Sidebarreklam;Husbil-Familj;9.78;1
+305;Brandon Watson;76;Kvinna;Sverige;Sidebarreklam;Husbil-Sport;9.78;0
+306;Jacqueline Smith;74;Kvinna;Norge;Helsidereklam;Husbil-Budget;5.15;2
+307;Christina Thompson;62;Kvinna;Danmark;Helsidereklam;Husbil-Budget;6.86;2
+308;Kimberly Williams;52;Man;Sverige;Helsidereklam;Husbil-Familj;6.27;1
+309;Justin Wallace;24;Man;Norge;Sidebarreklam;Husbil-Familj;9.76;1
+310;Micheal Jones Jr.;72;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;0.1;0
+311;Eric Smith;78;Man;Norge;Popuppreklam med musik;Husbil-Budget;0.1;0
+312;Betty Bowman DVM;47;Kvinna;Norge;Popuppreklam med musik;Husbil-Sport;0.1;0
+313;Paul Giles;29;Kvinna;Norge;Sidebarreklam;Husbil-Budget;9.76;0
+314;Amanda Bullock;75;Man;Sverige;Helsidereklam;Husbil-Budget;5.38;2
+315;Mary Johnston;44;Man;Sverige;Sidebarreklam;Husbil-Lyx;9.75;1
+316;Sarah Davis;43;Man;Norge;Popuppreklam med musik;Husbil-Familj;0.1;0
+317;Sandra Scott;34;Man;Danmark;Popuppreklam med musik;Husbil-Budget;0.1;0
+318;Mr. Brian Werner;45;Man;Norge;Popuppreklam med musik;Husbil-Familj;0.1;0
+319;Gary Nguyen;25;Man;Sverige;Sidebarreklam;Husbil-Lyx;9.73;0
+320;Regina Ryan;30;Man;Norge;Popuppreklam med musik;Husbil-Familj;0.1;0
+321;Todd Mason;47;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.02;0
+322;Monica Calhoun;28;Man;Sverige;Helsidereklam;Husbil-Familj;6.08;1
+323;Maria Wright MD;46;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.02;0
+324;Megan Hill;28;Kvinna;England;Sidebarreklam;Husbil-Budget;9.73;3
+325;Michael Harris;55;Man;Norge;Popuppreklam med musik;Husbil-Sport;0.02;0
+326;Patrick Hodge;77;Man;Norge;Popuppreklam med musik;Husbil-Lyx;0.03;0
+327;Sharon Woods DVM;65;Man;Sverige;Sidebarreklam;Husbil-Budget;9.72;3
+328;Brad Garcia III;61;Man;Norge;Helsidereklam;Husbil-Sport;7.68;0
+329;Kevin Tucker;55;Man;Danmark;Helsidereklam;Husbil-Familj;2.66;2
+330;Brittany Lindsey;54;Kvinna;Norge;Popuppreklam med musik;Husbil-Budget;0.03;0
+331;Sean Burton;47;Man;Sverige;Helsidereklam;Husbil-Sport;1.13;0
+332;Jane Mitchell;66;Kvinna;Norge;Sidebarreklam;Husbil-Familj;9.72;0
+333;Matthew Guerrero;37;Man;Norge;Helsidereklam;Husbil-Budget;1.63;0
+334;Donald Valdez;73;Man;Danmark;Popuppreklam med musik;Husbil-Sport;0.04;0
+335;Randy Daniels;20;Man;Sverige;Helsidereklam;Husbil-Lyx;3.49;1
+336;Ashley Fitzpatrick;71;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.05;0
+337;Hannah Obrien;69;Man;Norge;Popuppreklam med musik;Husbil-Budget;0.08;0
+338;Emily Bailey;30;Man;Sverige;Sidebarreklam;Husbil-Budget;9.72;0
+339;Gary Coffey;46;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;0.09;0
+340;Tanya Mosley;40;Man;Danmark;Sidebarreklam;Husbil-Budget;9.7;3
+341;Jennifer Smith;44;Man;Sverige;Helsidereklam;Husbil-Budget;8.76;4
+342;Kristen Jenkins;48;Man;Sverige;Sidebarreklam;Husbil-Lyx;9.7;1
+343;Tricia Wilson;51;Man;Norge;Helsidereklam;Husbil-Sport;3.09;0
+344;Heather Strong;69;Kvinna;Norge;Helsidereklam;Husbil-Budget;8.04;2
+345;Sarah Tanner;51;Man;Sverige;Helsidereklam;Husbil-Sport;5.12;0
+346;Laura Whitehead;55;Man;Norge;Helsidereklam;Husbil-Familj;7.07;1
+347;Shane Davis;72;Man;Sverige;Helsidereklam;Husbil-Sport;7.27;2
+348;Kimberly King;45;Kvinna;Norge;Sidebarreklam;Husbil-Budget;9.67;3
+349;Ana Martinez;24;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.11;0
+350;Kevin Coleman;42;Man;Danmark;Helsidereklam;Husbil-Lyx;7.43;1
+351;Gregory Mcclure;78;Man;Sverige;Sidebarreklam;Husbil-Budget;9.66;2
+352;Raymond Scott;26;Man;Danmark;Helsidereklam;Husbil-Lyx;3.87;1
+353;Mrs. Nicole Aguilar MD;41;Man;Norge;Sidebarreklam;Husbil-Budget;9.64;3
+354;Michael Williams;79;Kvinna;Norge;Helsidereklam;Husbil-Sport;6.83;0
+355;Katherine Potter;79;Man;Tyskland;Helsidereklam;Husbil-Familj;4.58;0
+356;Kevin Durham;63;Man;Sverige;Helsidereklam;Husbil-Budget;0.42;0
+357;Robert Cohen;69;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.12;0
+358;James Hines;49;Man;Sverige;Helsidereklam;Husbil-Lyx;5.92;0
+359;Lori Arellano;48;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;9.61;3
+360;Regina Wolf;73;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;9.59;0
+361;William Scott;62;Man;Sverige;Sidebarreklam;Husbil-Budget;9.59;2
+362;Rachel Wilson;46;Kvinna;Norge;Helsidereklam;Husbil-Familj;0.87;0
+363;Mrs. Erin Meyers;19;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;0.13;0
+364;Colleen Rodriguez;45;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;0.14;0
+365;Patrick Thompson;64;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.14;0
+366;Daniel Thomas;73;Man;Norge;Helsidereklam;Husbil-Budget;3.43;0
+367;Melissa Kennedy;54;Kvinna;Norge;Popuppreklam med musik;Husbil-Budget;0.17;0
+368;Lisa Perry;70;Man;Norge;Popuppreklam med musik;Husbil-Budget;0.21;0
+369;David Sanford;58;Man;Norge;Helsidereklam;Husbil-Sport;2.06;1
+370;Justin Guerrero;47;Man;Danmark;Sidebarreklam;Husbil-Sport;9.57;1
+371;Stephanie Jones;34;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.21;0
+372;Billy Lopez;32;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;0.22;0
+373;Robert Bradley;33;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;9.56;2
+374;Jessica Terry;79;Man;Sverige;Helsidereklam;Husbil-Sport;4.02;1
+375;Paul Dean;21;Man;Sverige;Helsidereklam;Husbil-Budget;3.99;0
+376;Lee Brown;42;Kvinna;Norge;Helsidereklam;Husbil-Familj;4.38;2
+377;Samantha Downs;79;Man;Sverige;Helsidereklam;Husbil-Budget;7.03;2
+378;Kristin Barrett;51;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.22;0
+379;Kimberly Payne;62;Man;Sverige;Sidebarreklam;Husbil-Familj;9.55;0
+380;Kathy Long;70;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;0.24;0
+381;Tina Maddox;71;Man;England;Sidebarreklam;Husbil-Lyx;9.53;1
+382;David Yates;36;Man;Norge;Helsidereklam;Husbil-Lyx;4.77;3
+383;Jacob Butler;79;Man;Sverige;Sidebarreklam;Husbil-Budget;9.5;0
+384;Kenneth Molina;70;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;0.25;0
+385;Nathaniel Bowen;26;Man;Norge;Helsidereklam;Husbil-Lyx;9.22;0
+386;Kimberly Lawson;41;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;0.25;0
+387;Jennifer Gardner;25;Man;Norge;Sidebarreklam;Husbil-Lyx;9.49;0
+388;Lisa Vasquez;42;Kvinna;Norge;Helsidereklam;Husbil-Lyx;4.16;2
+389;Brittany Byrd;38;Man;Sverige;Sidebarreklam;Husbil-Budget;9.46;0
+390;Jeffrey Jones;35;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.27;0
+391;Christopher Graham;79;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;9.46;0
+392;Jack Hudson;45;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;0.3;0
+393;Brandi Brewer;43;Man;Sverige;Helsidereklam;Husbil-Sport;2.99;3
+394;Kenneth Williams;29;Man;Norge;Popuppreklam med musik;Husbil-Lyx;0.3;0
+395;Donald Barrett;47;Kvinna;Sverige;Popuppreklam med musik;Husbil-Budget;0.32;0
+396;Christopher Murphy;48;Man;Tyskland;Sidebarreklam;Husbil-Budget;9.43;2
+397;John Hunt;47;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;9.43;2
+398;April Sanchez;35;Kvinna;Norge;Helsidereklam;Husbil-Budget;8.64;0
+399;Randy Shelton;37;Kvinna;Norge;Helsidereklam;Husbil-Lyx;5.91;0
+400;Kenneth Rush;24;Man;Sverige;Sidebarreklam;Husbil-Familj;9.42;1
+401;Kevin Jones;53;Man;Sverige;Helsidereklam;Husbil-Sport;4.2;1
+402;Randy Stevens;63;Kvinna;Norge;Helsidereklam;Husbil-Budget;8.59;0
+403;Christopher Bradshaw;45;Man;Sverige;Sidebarreklam;Husbil-Sport;9.39;1
+404;Danny Dunn;50;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;0.33;0
+405;Brian Wilson;30;Man;England;Sidebarreklam;Husbil-Sport;9.39;1
+406;Brian Williams;34;Man;Sverige;Sidebarreklam;Husbil-Budget;9.38;2
+407;Jacqueline Hinton;80;Man;Norge;Popuppreklam med musik;Husbil-Budget;0.33;0
+408;Dakota Mckee;58;Kvinna;Tyskland;Popuppreklam med musik;Husbil-Budget;0.36;0
+409;James Watson;71;Kvinna;Norge;Sidebarreklam;Husbil-Sport;9.38;0
+410;Caroline Bishop;39;Man;Sverige;Helsidereklam;Husbil-Lyx;5.1;0
+411;Johnny Armstrong;78;Kvinna;Norge;Helsidereklam;Husbil-Budget;5;0
+412;Christopher Nelson;43;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;9.36;0
+413;Timothy Harper;22;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;0.36;0
+414;Jacqueline Hayden;52;Man;Norge;Popuppreklam med musik;Husbil-Budget;0.38;0
+415;Megan Singh;61;Man;Sverige;Sidebarreklam;Husbil-Familj;9.34;1
+416;Garrett Lewis;59;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;4.78;2
+417;Norma Young;47;Man;Sverige;Helsidereklam;Husbil-Sport;7.56;1
+418;Kathleen Thompson;71;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.4;0
+419;Stephen Marshall;74;Man;Danmark;Helsidereklam;Husbil-Budget;2.24;2
+420;Noah Solomon;60;Man;Tyskland;Sidebarreklam;Husbil-Sport;9.32;2
+421;Rose Jordan;59;Kvinna;Tyskland;Sidebarreklam;Husbil-Budget;9.32;0
+422;Jonathan Johnson;22;Man;England;Popuppreklam med musik;Husbil-Sport;0.42;0
+423;Sarah Miller;76;Man;Danmark;Helsidereklam;Husbil-Budget;8.33;1
+424;Jessica Stanton;34;Man;Sverige;Helsidereklam;Husbil-Budget;3.38;1
+425;Craig Ferguson;48;Man;Danmark;Popuppreklam med musik;Husbil-Sport;0.44;0
+426;Andrea Hess;29;Man;Danmark;Sidebarreklam;Husbil-Lyx;9.31;0
+427;Tiffany Cobb;62;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.45;0
+428;Danielle Thompson;26;Man;Norge;Helsidereklam;Husbil-Lyx;4.26;2
+429;Ashley Johnson;58;Man;Norge;Popuppreklam med musik;Husbil-Lyx;0.5;0
+430;Miranda Patel;65;Man;Sverige;Sidebarreklam;Husbil-Lyx;9.31;0
+431;Amber Martin;34;Man;England;Popuppreklam med musik;Husbil-Familj;0.5;0
+432;Heather Bates;48;Kvinna;England;Sidebarreklam;Husbil-Lyx;9.3;1
+433;Jeffery Washington;78;Man;Norge;Sidebarreklam;Husbil-Familj;9.3;3
+434;Tiffany Jensen;77;Man;Sverige;Helsidereklam;Husbil-Sport;5.88;1
+435;Benjamin Perkins;80;Man;Norge;Popuppreklam med musik;Husbil-Lyx;0.52;0
+436;Beth Bridges;47;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.53;0
+437;Steven Wallace;21;Man;Sverige;Helsidereklam;Husbil-Budget;0.65;0
+438;Marco Solis;70;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.53;0
+439;Anthony Young;23;Man;England;Helsidereklam;Husbil-Budget;6.01;1
+440;Brandon Smith;47;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.54;0
+441;Jonathan Robinson;62;Man;England;Sidebarreklam;Husbil-Sport;9.3;3
+442;Jason Morris;48;Kvinna;Sverige;Helsidereklam;Husbil-Sport;6.26;0
+443;Daniel Fernandez;32;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;0.56;0
+444;Mark Mcdonald;53;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;9.29;1
+445;Nicholas Clay;44;Man;Sverige;Helsidereklam;Husbil-Sport;5.84;3
+446;Pamela Harris;25;Kvinna;Norge;Helsidereklam;Husbil-Familj;3.67;1
+447;Mark Tran;33;Kvinna;Danmark;Helsidereklam;Husbil-Sport;8.3;3
+448;Richard Carrillo;33;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;0.56;0
+449;Deborah Patel;53;Man;Norge;Popuppreklam med musik;Husbil-Sport;0.56;0
+450;Stephanie Jones;46;Man;Sverige;Helsidereklam;Husbil-Familj;5.95;0
+451;Joshua Bond;54;Man;Norge;Popuppreklam med musik;Husbil-Lyx;0.56;0
+452;Miss Diane Walls;74;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.6;0
+453;Andrew Mann;67;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;0.61;0
+454;Timothy Padilla;39;Man;Norge;Helsidereklam;Husbil-Familj;5.86;1
+455;Stacie Rogers;63;Kvinna;Sverige;Helsidereklam;Husbil-Budget;2.71;2
+456;Kathryn Harris;73;Man;Norge;Helsidereklam;Husbil-Lyx;4.33;1
+457;Zachary Skinner MD;60;Man;Norge;Sidebarreklam;Husbil-Budget;9.29;0
+458;Lisa Hayden;28;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;0.62;0
+459;Thomas Daniels;57;Man;Norge;Popuppreklam med musik;Husbil-Budget;0.64;0
+460;Judith Hawkins;66;Man;Sverige;Helsidereklam;Husbil-Budget;6.8;0
+461;Kimberly Cardenas;54;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.64;0
+462;Lawrence Madden;59;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.67;0
+463;Justin Randall;41;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;9.29;1
+464;Cheyenne Craig;67;Man;Danmark;Sidebarreklam;Husbil-Budget;9.27;2
+465;Rebecca Klein;63;Man;England;Popuppreklam med musik;Husbil-Sport;0.67;0
+466;Kevin Kane;53;Kvinna;Sverige;Sidebarreklam;Husbil-Lyx;9.26;2
+467;Wendy Harmon;50;Kvinna;Danmark;Helsidereklam;Husbil-Budget;2.22;2
+468;Charles Peck;77;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;0.71;0
+469;Craig Patel;43;Man;Norge;Helsidereklam;Husbil-Familj;2.65;1
+470;Andrew Ramos;69;Man;Sverige;Helsidereklam;Husbil-Familj;1.2;0
+471;Kenneth Allen;53;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;0.73;0
+472;Beth Fitzgerald;75;Man;Sverige;Helsidereklam;Husbil-Sport;3.52;1
+473;Michelle Rowe;26;Man;Sverige;Helsidereklam;Husbil-Lyx;7.62;3
+474;Lawrence Bell;49;Man;Sverige;Sidebarreklam;Husbil-Lyx;9.26;1
+475;Virginia Cummings;33;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.74;0
+476;Cassidy Morrison;23;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;0.75;0
+477;Tara Scott;20;Kvinna;Norge;Sidebarreklam;Husbil-Familj;9.23;1
+478;Jessica Petersen;46;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;9.22;1
+479;Jonathon Scott;62;Man;Norge;Helsidereklam;Husbil-Budget;3.54;1
+480;Christina Wood;26;Kvinna;Danmark;Helsidereklam;Husbil-Sport;5.67;3
+481;Ashley Watson;70;Kvinna;Norge;Helsidereklam;Husbil-Sport;5.21;0
+482;Krista Lucero;42;Man;Sverige;Helsidereklam;Husbil-Lyx;7.05;1
+483;Mindy Flores;65;Man;Norge;Helsidereklam;Husbil-Lyx;1.87;1
+484;Logan Simon;69;Man;Norge;Sidebarreklam;Husbil-Sport;9.2;2
+485;Valerie Le;67;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;0.76;0
+486;John Warner;44;Man;Norge;Helsidereklam;Husbil-Budget;5.66;3
+487;Jasmine Novak;57;Man;Sverige;Sidebarreklam;Husbil-Budget;9.2;2
+488;Leslie Williams;43;Kvinna;Tyskland;Sidebarreklam;Husbil-Sport;9.19;6
+489;Anthony Todd;32;Man;Norge;Popuppreklam med musik;Husbil-Familj;0.76;0
+490;Ann Ellison;32;Man;Sverige;Helsidereklam;Husbil-Budget;6.73;2
+491;Linda Sandoval;41;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;0.77;0
+492;Samantha Nichols;59;Kvinna;Norge;Sidebarreklam;Husbil-Lyx;9.19;1
+493;Daniel Price;62;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;0.79;0
+494;Amy Savage;46;Kvinna;Danmark;Helsidereklam;Husbil-Familj;6.45;1
+495;Tammy Marks;78;Man;Sverige;Sidebarreklam;Husbil-Sport;9.18;1
+496;Sherry Nelson;42;Man;Sverige;Helsidereklam;Husbil-Budget;4.74;1
+497;Heather Stevens;72;Man;Tyskland;Popuppreklam med musik;Husbil-Budget;0.8;0
+498;Brian Mcdaniel;38;Man;Norge;Popuppreklam med musik;Husbil-Sport;0.8;0
+499;Megan Cameron;72;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;0.83;0
+500;Laura Wilson;79;Man;Tyskland;Popuppreklam med musik;Husbil-Sport;0.83;0
+501;Adrian Murray;44;Man;Sverige;Helsidereklam;Husbil-Familj;7.2;1
+502;Susan Burton;34;Kvinna;Sverige;Sidebarreklam;Husbil-Budget;9.14;0
+503;Joan Johnson;62;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;9.14;3
+504;Thomas Harvey;22;Man;Sverige;Sidebarreklam;Husbil-Sport;9.11;1
+505;Kevin Mcbride;74;Man;England;Sidebarreklam;Husbil-Lyx;9.11;1
+506;Kelly Owen;62;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;0.85;0
+507;Jessica Sherman;64;Man;Danmark;Helsidereklam;Husbil-Lyx;4.46;3
+508;Toni Archer;71;Man;Danmark;Helsidereklam;Husbil-Lyx;1.48;0
+509;Francisco Young;50;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;0.86;0
+510;Rick Miller;49;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;0.87;0
+511;Alicia Watson;73;Man;Danmark;Sidebarreklam;Husbil-Lyx;9.09;0
+512;Sarah Duke;32;Man;Norge;Sidebarreklam;Husbil-Sport;9.07;3
+513;Daisy Hoffman;29;Man;Sverige;Popuppreklam med musik;Husbil-Familj;0.87;0
+514;Ashley Tran;52;Kvinna;Sverige;Helsidereklam;Husbil-Familj;6.98;0
+515;Mackenzie Padilla;63;Man;Sverige;Sidebarreklam;Husbil-Familj;9.07;1
+516;Jeffrey Graham;69;Man;England;Sidebarreklam;Husbil-Budget;9.06;2
+517;Lance Page;47;Man;Norge;Popuppreklam med musik;Husbil-Budget;0.88;0
+518;Rebecca Anderson;63;Man;Sverige;Sidebarreklam;Husbil-Familj;9.05;1
+519;Christina Mahoney;60;Kvinna;Danmark;Helsidereklam;Husbil-Sport;3.68;0
+520;Carol Pena;46;Man;Danmark;Sidebarreklam;Husbil-Sport;9.04;1
+521;Eugene Poole;45;Man;Norge;Popuppreklam med musik;Husbil-Familj;0.89;0
+522;Cory Manning;39;Man;Sverige;Sidebarreklam;Husbil-Budget;9.04;0
+523;Christopher Gardner;28;Man;Norge;Sidebarreklam;Husbil-Sport;9.04;1
+524;Cynthia Merritt;19;Man;Norge;Helsidereklam;Husbil-Budget;4.2;3
+525;Daniel Boyer;22;Kvinna;Danmark;Helsidereklam;Husbil-Familj;4.3;0
+526;Rodney Peck;44;Man;Tyskland;Sidebarreklam;Husbil-Budget;9.04;0
+527;Cynthia Rodriguez;59;Man;Sverige;Popuppreklam med musik;Husbil-Sport;0.89;0
+528;Jenna Johnson;68;Man;Danmark;Helsidereklam;Husbil-Sport;7.56;1
+529;Justin Howard;49;Kvinna;England;Sidebarreklam;Husbil-Familj;9.03;0
+530;Patricia Flores;51;Man;Sverige;Sidebarreklam;Husbil-Sport;9.02;2
+531;Louis Jordan;74;Kvinna;Danmark;Helsidereklam;Husbil-Familj;6.4;1
+532;Rebecca Oconnor;57;Kvinna;Danmark;Helsidereklam;Husbil-Familj;6.43;4
+533;Tammy Krueger;51;Kvinna;Sverige;Sidebarreklam;Husbil-Budget;9.01;1
+534;Frank Smith;53;Man;Danmark;Sidebarreklam;Husbil-Sport;8.98;1
+535;Deborah Powell;51;Man;Sverige;Popuppreklam med musik;Husbil-Budget;0.9;0
+536;Sherry Williams;68;Kvinna;Norge;Helsidereklam;Husbil-Lyx;5.22;0
+537;Matthew Brock;44;Man;Danmark;Popuppreklam med musik;Husbil-Lyx;0.9;0
+538;Michael Stokes;58;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;0.92;0
+539;David Hall;25;Man;Norge;Helsidereklam;Husbil-Budget;4.5;1
+540;John Vasquez;53;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;0.93;0
+541;William Gray;52;Man;Sverige;Sidebarreklam;Husbil-Sport;8.96;1
+542;Lisa Bennett;72;Man;Sverige;Sidebarreklam;Husbil-Sport;8.96;1
+543;Ashley Crane;27;Kvinna;Norge;Helsidereklam;Husbil-Sport;3.81;1
+544;Brittney Lee;70;Kvinna;Norge;Sidebarreklam;Husbil-Budget;8.95;1
+545;Maria Palmer;27;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;0.95;0
+546;Ashley Cannon;64;Man;Sverige;Helsidereklam;Husbil-Lyx;7.35;0
+547;John Morales;62;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;0.95;0
+548;Michael Patterson;45;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;1.26;0
+549;Christina Ewing;60;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;0.97;0
+550;Theresa Reyes;66;Kvinna;Sverige;Popuppreklam med musik;Husbil-Familj;1.01;0
+551;Lauren Santos;50;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;8.92;1
+552;Beth Lee;62;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;1.02;0
+553;Richard Horton;78;Kvinna;Danmark;Helsidereklam;Husbil-Sport;5.64;1
+554;Mrs. Melissa Thompson DVM;75;Man;Norge;Sidebarreklam;Husbil-Lyx;8.92;0
+555;Christina Thomas;27;Man;England;Sidebarreklam;Husbil-Lyx;8.91;1
+556;Joseph Winters;54;Man;Tyskland;Popuppreklam med musik;Husbil-Budget;1.02;0
+557;Reginald Mejia;34;Man;Sverige;Helsidereklam;Husbil-Budget;8.82;2
+558;Rebekah Rosario;65;Kvinna;Sverige;Popuppreklam med musik;Husbil-Sport;1.03;0
+559;Tiffany Martin;40;Kvinna;Danmark;Helsidereklam;Husbil-Sport;3.4;1
+560;Samantha Hunt;18;Man;Sverige;Popuppreklam med musik;Husbil-Sport;1.04;0
+561;Dustin Nixon;55;Man;England;Helsidereklam;Husbil-Budget;3.77;1
+562;Eric Johnson PhD;31;Man;Sverige;Popuppreklam med musik;Husbil-Familj;1.05;0
+563;Alex Watkins;74;Man;Sverige;Helsidereklam;Husbil-Sport;4.11;1
+564;Matthew Fox;46;Man;Sverige;Sidebarreklam;Husbil-Lyx;8.9;2
+565;Jennifer Brooks;38;Man;Sverige;Sidebarreklam;Husbil-Sport;8.89;0
+566;Gabriel Cox;51;Man;Sverige;Helsidereklam;Husbil-Lyx;5.98;1
+567;Haley Nguyen;23;Man;Danmark;Helsidereklam;Husbil-Familj;6.56;1
+568;Jon Young;30;Kvinna;England;Helsidereklam;Husbil-Familj;5.62;0
+569;Kenneth Jones;59;Kvinna;Norge;Helsidereklam;Husbil-Sport;1.77;1
+570;Brandon Lopez;69;Man;Tyskland;Popuppreklam med musik;Husbil-Sport;1.05;0
+571;Ashley Maldonado;74;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.1;0
+572;Nancy Jones;43;Man;Danmark;Sidebarreklam;Husbil-Familj;8.89;2
+573;Jeremy Mcdonald;21;Man;Norge;Sidebarreklam;Husbil-Familj;8.86;3
+574;Lisa Perry;68;Man;Sverige;Sidebarreklam;Husbil-Sport;8.85;0
+575;Heather Harris;74;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;8.84;1
+576;Lisa Hardin;49;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;1.1;0
+577;Valerie Kidd;67;Man;Sverige;Helsidereklam;Husbil-Budget;7.96;2
+578;Katelyn Mendoza;29;Man;England;Sidebarreklam;Husbil-Sport;8.83;0
+579;Andrea Thompson;51;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;1.12;0
+580;Ariel Johnson;44;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.12;0
+581;Lisa Reyes;52;Man;Sverige;Sidebarreklam;Husbil-Lyx;8.83;0
+582;Bryan Strong;54;Man;Sverige;Popuppreklam med musik;Husbil-Familj;1.12;0
+583;Krystal Smith;19;Man;Sverige;Popuppreklam med musik;Husbil-Sport;1.13;0
+584;Cynthia Brown;27;Kvinna;Danmark;Helsidereklam;Husbil-Sport;4.38;0
+585;Charles Gregory;36;Man;Norge;Sidebarreklam;Husbil-Sport;8.8;2
+586;Kristin Anderson;52;Man;Norge;Popuppreklam med musik;Husbil-Lyx;1.13;0
+587;Grant Burke;77;Kvinna;Sverige;Popuppreklam med musik;Husbil-Lyx;1.14;0
+588;Bryce Garza;71;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;1.15;0
+589;Vincent Martin;51;Kvinna;Danmark;Helsidereklam;Husbil-Familj;8.58;1
+590;Emily Clark;51;Man;Sverige;Helsidereklam;Husbil-Sport;1.77;1
+591;Mark Soto;71;Man;Norge;Helsidereklam;Husbil-Sport;4.27;1
+592;Bradley Ward;78;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;1.15;0
+593;Tyler Mcdonald;43;Man;Norge;Popuppreklam med musik;Husbil-Sport;1.16;0
+594;Amanda Paul;41;Man;Sverige;Helsidereklam;Husbil-Lyx;3.44;1
+595;Brandon Herring;37;Man;Danmark;Popuppreklam med musik;Husbil-Lyx;1.16;0
+596;Jessica King;49;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.18;0
+597;Brooke Hobbs;21;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;1.18;0
+598;Luis Reed;79;Man;England;Sidebarreklam;Husbil-Familj;8.8;0
+599;Helen Turner;30;Man;Danmark;Helsidereklam;Husbil-Budget;1.72;2
+600;Adam Smith;48;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;4.48;1
+601;Kenneth Perkins;24;Man;England;Popuppreklam med musik;Husbil-Familj;1.19;0
+602;Morgan Francis;49;Man;Sverige;Sidebarreklam;Husbil-Familj;8.78;0
+603;Andrea Anderson;19;Man;Norge;Helsidereklam;Husbil-Sport;1.36;0
+604;Rachel Osborn;27;Man;Sverige;Popuppreklam med musik;Husbil-Sport;1.2;0
+605;Linda Nielsen;35;Man;Norge;Popuppreklam med musik;Husbil-Lyx;1.21;0
+606;Christopher Evans;35;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;2.2;1
+607;Teresa Bates;79;Man;Norge;Popuppreklam med musik;Husbil-Budget;1.21;0
+608;Jillian Richards;53;Man;Sverige;Helsidereklam;Husbil-Familj;4.85;0
+609;Donald Hudson;19;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;1.23;0
+610;Victor Scott;55;Kvinna;Danmark;Helsidereklam;Husbil-Budget;4.14;1
+611;Robert Gray;49;Man;Sverige;Popuppreklam med musik;Husbil-Familj;1.24;0
+612;Daniel Perez;41;Man;Tyskland;Popuppreklam med musik;Husbil-Sport;1.24;0
+613;Wesley Smith;66;Man;Sverige;Helsidereklam;Husbil-Familj;2.67;1
+614;Stephanie Smith;44;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;1.25;0
+615;Brittany Norton;24;Man;Norge;Helsidereklam;Husbil-Lyx;5.12;2
+616;John Hanna;51;Man;Sverige;Sidebarreklam;Husbil-Budget;8.77;1
+617;Molly Craig;28;Man;Sverige;Sidebarreklam;Husbil-Lyx;8.75;0
+618;Stacy Lane;59;Man;Sverige;Sidebarreklam;Husbil-Budget;8.75;1
+619;Austin Fields;60;Man;England;Sidebarreklam;Husbil-Lyx;8.74;1
+620;Alexandria Allen;75;Kvinna;England;Sidebarreklam;Husbil-Budget;8.72;1
+621;Patrick Weber;20;Man;England;Popuppreklam med musik;Husbil-Familj;1.28;0
+622;Alison Walker;64;Kvinna;Tyskland;Helsidereklam;Husbil-Budget;8.43;2
+623;Anna Barajas;38;Man;Sverige;Helsidereklam;Husbil-Budget;7.01;1
+624;Larry Reeves;43;Kvinna;England;Sidebarreklam;Husbil-Sport;8.72;1
+625;Alyssa Potts;47;Man;Sverige;Sidebarreklam;Husbil-Familj;8.72;2
+626;Kelly Mckinney;74;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;8.72;1
+627;Shannon Allison;48;Man;Norge;Sidebarreklam;Husbil-Familj;8.72;4
+628;Robert Martinez;44;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.28;0
+629;Maria Chavez;68;Man;Danmark;Popuppreklam med musik;Husbil-Familj;1.29;0
+630;Lynn West;72;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.29;0
+631;Nancy Craig;19;Man;Sverige;Helsidereklam;Husbil-Lyx;4.27;2
+632;Jennifer Brown;75;Man;Norge;Helsidereklam;Husbil-Sport;2.05;3
+633;Laura Ball;49;Kvinna;Norge;Sidebarreklam;Husbil-Familj;8.72;2
+634;Heather Allen;72;Man;Tyskland;Sidebarreklam;Husbil-Budget;8.72;0
+635;Michael Lawrence;61;Kvinna;Tyskland;Helsidereklam;Husbil-Familj;7.86;1
+636;Glen Grant;24;Man;Tyskland;Helsidereklam;Husbil-Budget;5.18;0
+637;Connie Estes;33;Man;Sverige;Popuppreklam med musik;Husbil-Familj;1.29;0
+638;Larry Carroll;25;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;1.29;0
+639;Emily Walker;51;Man;Norge;Popuppreklam med musik;Husbil-Lyx;1.31;0
+640;Sarah Davis;31;Man;Sverige;Sidebarreklam;Husbil-Sport;8.72;3
+641;Ricardo Johnson;61;Man;Norge;Helsidereklam;Husbil-Lyx;8.27;3
+642;Gregory Jones;47;Man;Sverige;Helsidereklam;Husbil-Budget;4.01;1
+643;Nicholas Miller;54;Kvinna;England;Sidebarreklam;Husbil-Budget;8.71;2
+644;Cheryl Robinson;19;Kvinna;England;Sidebarreklam;Husbil-Familj;8.69;3
+645;Jacob Garcia;21;Man;Sverige;Sidebarreklam;Husbil-Lyx;8.68;1
+646;Thomas Livingston;36;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;8.67;1
+647;Jeffery Black;42;Man;Norge;Popuppreklam med musik;Husbil-Lyx;1.32;0
+648;David Thomas;27;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;1.32;0
+649;Angela Spencer;74;Kvinna;Norge;Helsidereklam;Husbil-Familj;2.12;2
+650;Sandra Serrano;19;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;8.67;0
+651;Benjamin Deleon;30;Man;Danmark;Popuppreklam med musik;Husbil-Familj;1.33;0
+652;Mrs. Jasmine Kim;23;Man;Sverige;Sidebarreklam;Husbil-Lyx;8.67;2
+653;Ryan Soto;28;Man;Sverige;Sidebarreklam;Husbil-Sport;8.65;2
+654;Brianna Garrett;40;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;1.33;0
+655;Stephanie Chapman;80;Man;Sverige;Sidebarreklam;Husbil-Familj;8.65;0
+656;Samantha Callahan;25;Man;Sverige;Sidebarreklam;Husbil-Budget;8.63;1
+657;Julie Warner;42;Kvinna;Tyskland;Helsidereklam;Husbil-Budget;5.35;1
+658;Steven Murphy;77;Man;Norge;Helsidereklam;Husbil-Lyx;6.98;2
+659;Daniel Parrish;50;Man;England;Helsidereklam;Husbil-Lyx;3.08;1
+660;Michael Hughes;56;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;1.33;0
+661;Matthew Kim;72;Kvinna;Norge;Sidebarreklam;Husbil-Familj;8.63;2
+662;Nicole Elliott;76;Man;England;Sidebarreklam;Husbil-Familj;8.63;1
+663;Michael Hansen;72;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;8.62;1
+664;Amber Brown;75;Man;Sverige;Popuppreklam med musik;Husbil-Sport;1.35;0
+665;Patricia Holloway;49;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;8.62;0
+666;Christopher Rose;60;Man;Sverige;Helsidereklam;Husbil-Sport;6.39;2
+667;Tanya Perez;45;Man;Norge;Popuppreklam med musik;Husbil-Lyx;1.36;0
+668;Jared Hernandez;41;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.37;0
+669;Kristen Walsh;48;Man;Sverige;Popuppreklam med musik;Husbil-Familj;1.37;0
+670;James Jones;53;Man;Sverige;Popuppreklam med musik;Husbil-Sport;1.38;0
+671;Kim Edwards;78;Man;England;Helsidereklam;Husbil-Familj;4.04;1
+672;Christopher Bowman;60;Man;Sverige;Helsidereklam;Husbil-Sport;3.75;0
+673;Lee Wagner;51;Man;Sverige;Sidebarreklam;Husbil-Familj;8.61;2
+674;Kevin Robbins;21;Man;Sverige;Helsidereklam;Husbil-Familj;4.62;1
+675;Kevin Jackson;63;Man;Sverige;Popuppreklam med musik;Husbil-Familj;1.38;0
+676;Michael Hopkins;45;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.39;0
+677;Mallory Underwood;78;Man;Sverige;Helsidereklam;Husbil-Budget;3.72;0
+678;Mathew Reid;56;Man;Sverige;Popuppreklam med musik;Husbil-Familj;1.42;0
+679;James Hernandez;31;Man;Sverige;Sidebarreklam;Husbil-Lyx;8.6;0
+680;Joseph Schneider;36;Man;Danmark;Popuppreklam med musik;Husbil-Familj;1.42;0
+681;Henry Ortega;39;Man;Tyskland;Helsidereklam;Husbil-Sport;4.25;1
+682;Casey Smith;30;Man;Norge;Popuppreklam med musik;Husbil-Lyx;1.43;0
+683;Bonnie Weaver;28;Kvinna;Tyskland;Helsidereklam;Husbil-Budget;8.08;0
+684;Parker Carpenter;40;Man;Norge;Sidebarreklam;Husbil-Familj;8.6;0
+685;Barbara Schmidt;25;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;1.44;0
+686;Katherine Taylor;73;Man;Norge;Popuppreklam med musik;Husbil-Budget;1.45;0
+687;James Perez;36;Man;Sverige;Sidebarreklam;Husbil-Budget;8.57;2
+688;Kaylee Spears;51;Man;England;Sidebarreklam;Husbil-Sport;8.56;0
+689;Tammy Franklin;74;Man;Danmark;Popuppreklam med musik;Husbil-Lyx;1.45;0
+690;Ashley Nguyen;74;Kvinna;Danmark;Helsidereklam;Husbil-Familj;3.77;0
+691;Emily Lee;41;Man;Norge;Helsidereklam;Husbil-Familj;8.42;0
+692;Julia Cox;46;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;2.47;0
+693;Cindy Rose;74;Man;Danmark;Sidebarreklam;Husbil-Lyx;8.55;1
+694;Kathleen Hernandez;74;Kvinna;Norge;Helsidereklam;Husbil-Budget;6.83;2
+695;Elizabeth Villarreal;54;Man;Norge;Popuppreklam med musik;Husbil-Sport;1.46;0
+696;Isaiah Williams;60;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;1.48;0
+697;Michael Contreras;36;Kvinna;Norge;Sidebarreklam;Husbil-Lyx;8.52;0
+698;Carrie Smith;22;Man;Norge;Popuppreklam med musik;Husbil-Familj;1.48;0
+699;Brandon Peters;76;Man;Tyskland;Sidebarreklam;Husbil-Budget;8.51;0
+700;Paul Bowers;73;Man;Sverige;Sidebarreklam;Husbil-Familj;8.5;0
+701;Paul Yoder MD;64;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;6.24;0
+702;Mrs. Stephanie Vega MD;77;Man;Tyskland;Popuppreklam med musik;Husbil-Budget;1.48;0
+703;Heather Pitts;45;Kvinna;Danmark;Helsidereklam;Husbil-Familj;2.04;1
+704;Scott Hayes;52;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;1.49;0
+705;David Hammond;62;Man;England;Popuppreklam med musik;Husbil-Lyx;1.51;0
+706;Paige Jenkins;37;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;1.51;3
+707;Madison Davis;73;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;8.48;1
+708;Shannon Dunn;25;Man;England;Popuppreklam med musik;Husbil-Sport;1.52;2
+709;Samuel Chang;53;Kvinna;Sverige;Helsidereklam;Husbil-Familj;5.59;1
+710;Michael Gilmore;79;Man;Sverige;Sidebarreklam;Husbil-Lyx;8.43;1
+711;Emily Gross;43;Man;Norge;Sidebarreklam;Husbil-Sport;8.43;2
+712;Teresa Dixon;71;Man;Sverige;Popuppreklam med musik;Husbil-Familj;1.52;2
+713;Rachel Walker;47;Man;Norge;Helsidereklam;Husbil-Sport;6.21;0
+714;Christina Thompson;26;Man;England;Helsidereklam;Husbil-Lyx;2.17;2
+715;Stephanie Hill;54;Man;Norge;Sidebarreklam;Husbil-Familj;8.41;0
+716;Stacy Collins;48;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;1.56;2
+717;George Hernandez;56;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;1.56;2
+718;Mary Rodriguez;53;Man;Norge;Popuppreklam med musik;Husbil-Familj;1.56;2
+719;Jose Armstrong;66;Man;Norge;Popuppreklam med musik;Husbil-Budget;1.57;0
+720;Lisa Wagner;30;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;1.58;1
+721;Peter Hopkins;63;Man;Danmark;Popuppreklam med musik;Husbil-Lyx;1.59;3
+722;Micheal Fox;70;Kvinna;Norge;Popuppreklam med musik;Husbil-Sport;1.59;0
+723;Elizabeth Simon;74;Man;England;Sidebarreklam;Husbil-Lyx;8.4;1
+724;Vincent Hansen;43;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.59;3
+725;Kristy Savage;79;Man;Norge;Helsidereklam;Husbil-Budget;4.38;1
+726;Mario Griffith;50;Kvinna;England;Helsidereklam;Husbil-Lyx;3.57;1
+727;Danielle Holmes;47;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.6;2
+728;Alexandra Mckinney;78;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;8.4;0
+729;Joseph Lopez;55;Kvinna;Sverige;Popuppreklam med musik;Husbil-Familj;1.61;2
+730;Jessica Maldonado;28;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;1.61;1
+731;Cheryl Aguirre;46;Kvinna;Sverige;Sidebarreklam;Husbil-Budget;8.39;1
+732;Ashley Weaver;35;Man;Norge;Popuppreklam med musik;Husbil-Sport;1.62;0
+733;Erika Farrell;75;Man;Norge;Popuppreklam med musik;Husbil-Budget;1.62;0
+734;Joseph Shaw;21;Kvinna;Danmark;Helsidereklam;Husbil-Budget;8.17;1
+735;Ronald Massey;63;Man;Sverige;Sidebarreklam;Husbil-Familj;8.39;0
+736;Dale Higgins;41;Man;Sverige;Sidebarreklam;Husbil-Sport;8.37;2
+737;Linda Torres;61;Man;Sverige;Sidebarreklam;Husbil-Familj;8.37;1
+738;Tammy Mcdonald;25;Man;Sverige;Sidebarreklam;Husbil-Lyx;8.37;2
+739;Jenna Foster;43;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;1.63;2
+740;Dylan Bell;56;Man;Norge;Helsidereklam;Husbil-Lyx;4.63;1
+741;Cole Wilkins;48;Man;Sverige;Helsidereklam;Husbil-Lyx;6.39;0
+742;Christopher Lyons;34;Man;Sverige;Popuppreklam med musik;Husbil-Familj;1.63;2
+743;Lawrence Lewis;71;Man;Tyskland;Helsidereklam;Husbil-Sport;4.69;0
+744;Luke Rhodes;68;Man;Norge;Popuppreklam med musik;Husbil-Familj;1.63;1
+745;Stacy Robbins;35;Kvinna;Norge;Helsidereklam;Husbil-Sport;3.65;2
+746;Julie Green;35;Man;Sverige;Helsidereklam;Husbil-Sport;3.04;3
+747;Deborah Holt;72;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;1.64;1
+748;Martin Vaughan;46;Man;Norge;Helsidereklam;Husbil-Budget;5.39;1
+749;Becky Brock;49;Man;Norge;Popuppreklam med musik;Husbil-Budget;1.64;0
+750;Caroline Conner;60;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;8.37;2
+751;Anna Miller;46;Man;Sverige;Helsidereklam;Husbil-Lyx;8.14;0
+752;Thomas Harris;40;Man;England;Helsidereklam;Husbil-Budget;3.6;0
+753;Carmen Williams;71;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.65;1
+754;John Moore;69;Man;Sverige;Helsidereklam;Husbil-Lyx;5.54;3
+755;Sara Young;27;Man;Norge;Popuppreklam med musik;Husbil-Sport;1.66;1
+756;Chad Brown;80;Man;Norge;Helsidereklam;Husbil-Familj;2.54;1
+757;Anthony Bishop;52;Man;Norge;Popuppreklam med musik;Husbil-Lyx;1.67;0
+758;John Neal Jr.;61;Kvinna;Norge;Helsidereklam;Husbil-Lyx;7.32;1
+759;Kenneth Martinez;29;Man;Norge;Popuppreklam med musik;Husbil-Budget;1.67;1
+760;Micheal Long;20;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;8.36;0
+761;Alvin Huffman;50;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;8.36;1
+762;Glen Douglas;37;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;8.35;2
+763;Maureen Davis;66;Man;Norge;Helsidereklam;Husbil-Sport;4.73;2
+764;Eddie Riggs;24;Man;Norge;Sidebarreklam;Husbil-Lyx;8.34;3
+765;George Proctor;43;Kvinna;Norge;Helsidereklam;Husbil-Sport;3.97;1
+766;Sarah Nelson;77;Man;Sverige;Sidebarreklam;Husbil-Budget;8.32;0
+767;Karla Cole;77;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;1.67;0
+768;Leah Yang;79;Man;Sverige;Helsidereklam;Husbil-Lyx;3.94;1
+769;Kevin Lee;52;Kvinna;Sverige;Sidebarreklam;Husbil-Budget;8.32;2
+770;Mark Brewer;69;Kvinna;Sverige;Helsidereklam;Husbil-Familj;6.4;0
+771;Danielle Thompson;19;Man;Sverige;Sidebarreklam;Husbil-Budget;8.31;1
+772;Catherine Ellis;51;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;1.68;3
+773;Tommy Allen;68;Kvinna;Danmark;Helsidereklam;Husbil-Sport;4.34;1
+774;Mary Jackson;54;Man;Sverige;Helsidereklam;Husbil-Familj;4.08;1
+775;Robert Burke;24;Man;Norge;Sidebarreklam;Husbil-Sport;8.31;1
+776;Alexis Diaz;58;Man;Sverige;Helsidereklam;Husbil-Sport;6.75;2
+777;Julie Rodriguez;59;Man;Sverige;Sidebarreklam;Husbil-Lyx;8.29;3
+778;Tina Wilson;47;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;1.68;4
+779;Catherine Lopez DDS;51;Man;Sverige;Sidebarreklam;Husbil-Budget;8.28;3
+780;Melissa Brown;30;Kvinna;Norge;Sidebarreklam;Husbil-Budget;8.28;1
+781;Natalie Edwards;38;Man;Sverige;Sidebarreklam;Husbil-Budget;8.28;1
+782;Kenneth Lynn;20;Man;Danmark;Popuppreklam med musik;Husbil-Familj;1.69;0
+783;Daniel Neal;25;Kvinna;Sverige;Sidebarreklam;Husbil-Budget;8.27;2
+784;Hailey Joseph;69;Man;Sverige;Popuppreklam med musik;Husbil-Sport;1.7;2
+785;Heather Bennett;51;Kvinna;Danmark;Helsidereklam;Husbil-Sport;6.92;0
+786;Megan Barton;45;Man;Norge;Helsidereklam;Husbil-Budget;2.36;1
+787;Holly Ortiz;25;Man;Sverige;Popuppreklam med musik;Husbil-Sport;1.7;0
+788;Joshua Hood;45;Man;Sverige;Sidebarreklam;Husbil-Budget;8.26;2
+789;Katherine Martin;53;Man;Norge;Sidebarreklam;Husbil-Sport;8.26;3
+790;April Pacheco;62;Man;England;Popuppreklam med musik;Husbil-Budget;1.7;0
+791;Mitchell Mitchell;58;Kvinna;England;Sidebarreklam;Husbil-Familj;8.25;3
+792;Christine Hughes;49;Man;Norge;Popuppreklam med musik;Husbil-Lyx;1.72;2
+793;Dwayne Ellis;44;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;8.25;2
+794;Jennifer Powell MD;27;Man;Sverige;Helsidereklam;Husbil-Sport;4.98;1
+795;Catherine Wilson;48;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;1.72;1
+796;Corey Montes;44;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;1.73;1
+797;Joseph Davis;43;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;1.74;0
+798;Albert Riley;34;Man;Norge;Helsidereklam;Husbil-Budget;7.39;4
+799;Courtney Adams MD;32;Kvinna;Norge;Sidebarreklam;Husbil-Lyx;8.25;3
+800;Daniel Mcdonald;73;Kvinna;Sverige;Helsidereklam;Husbil-Budget;6.98;0
+801;Amber Campbell;56;Man;Norge;Popuppreklam med musik;Husbil-Sport;1.74;2
+802;Tonya Smith;47;Man;Norge;Popuppreklam med musik;Husbil-Lyx;1.75;2
+803;Dustin Bell PhD;29;Man;Norge;Helsidereklam;Husbil-Lyx;3.39;0
+804;Rickey Clark;77;Man;Norge;Helsidereklam;Husbil-Lyx;6.38;4
+805;Rachel Chapman;24;Man;Danmark;Popuppreklam med musik;Husbil-Budget;1.75;0
+806;Jacqueline Hernandez;72;Man;Sverige;Helsidereklam;Husbil-Lyx;5.12;1
+807;Michelle Copeland;22;Man;Norge;Sidebarreklam;Husbil-Lyx;8.22;2
+808;Anthony Harrington;49;Man;Sverige;Helsidereklam;Husbil-Lyx;7.61;1
+809;Jacqueline Benton;39;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.75;0
+810;Jeffrey Booth;49;Man;Sverige;Helsidereklam;Husbil-Sport;4.03;0
+811;Michelle Lee;22;Man;Norge;Helsidereklam;Husbil-Budget;8.01;0
+812;Erin Nicholson;76;Man;Sverige;Helsidereklam;Husbil-Lyx;3.93;1
+813;Jessica Stark;59;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.75;3
+814;Heidi Coleman;54;Kvinna;Norge;Sidebarreklam;Husbil-Familj;8.22;3
+815;Michael Sutton;50;Man;Tyskland;Helsidereklam;Husbil-Sport;4;1
+816;Frank Graves;25;Man;Danmark;Popuppreklam med musik;Husbil-Sport;1.76;0
+817;Mr. Eric Clark;73;Man;Danmark;Popuppreklam med musik;Husbil-Lyx;1.76;2
+818;Kristin Campbell;61;Man;Sverige;Popuppreklam med musik;Husbil-Familj;1.77;3
+819;Annette Flores;37;Man;Norge;Helsidereklam;Husbil-Lyx;2.85;1
+820;Anthony Gordon;43;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.77;2
+821;Danielle Bray;21;Kvinna;Danmark;Helsidereklam;Husbil-Sport;3.7;0
+822;Jennifer Guzman;55;Man;Tyskland;Popuppreklam med musik;Husbil-Budget;1.78;1
+823;Amanda Stone;67;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.78;0
+824;Terry Hayes;75;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;1.81;1
+825;Laura Robinson;61;Man;Tyskland;Sidebarreklam;Husbil-Budget;8.22;2
+826;Jennifer Rhodes;35;Kvinna;Norge;Sidebarreklam;Husbil-Sport;8.21;1
+827;Kenneth Gill;69;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;1.81;3
+828;Jacob Blackburn;51;Man;Danmark;Sidebarreklam;Husbil-Familj;8.2;1
+829;Miguel Cruz;23;Man;Norge;Helsidereklam;Husbil-Lyx;6.13;1
+830;Kevin Gomez;73;Man;Sverige;Helsidereklam;Husbil-Sport;7.32;1
+831;Stephanie Williams;33;Man;Norge;Popuppreklam med musik;Husbil-Lyx;1.82;5
+832;Alisha Garrett;57;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;8.19;1
+833;Robert Donaldson;75;Man;Sverige;Sidebarreklam;Husbil-Sport;8.19;0
+834;Matthew Andrade;69;Kvinna;Danmark;Helsidereklam;Husbil-Budget;7.28;2
+835;Gary Butler;54;Man;Sverige;Helsidereklam;Husbil-Familj;4.99;1
+836;Christopher Bentley;23;Man;Sverige;Helsidereklam;Husbil-Lyx;2.16;1
+837;Patrick Brewer;67;Man;Sverige;Helsidereklam;Husbil-Sport;5.9;3
+838;Sonya Case;26;Man;Sverige;Sidebarreklam;Husbil-Lyx;8.18;1
+839;Jacqueline Wise;66;Man;Sverige;Helsidereklam;Husbil-Lyx;2.83;1
+840;William Baker;27;Man;Sverige;Sidebarreklam;Husbil-Budget;8.18;1
+841;Richard Price;71;Man;Sverige;Helsidereklam;Husbil-Familj;2.8;0
+842;Desiree Wong;32;Man;Tyskland;Helsidereklam;Husbil-Budget;5.74;3
+843;Sharon Hudson;65;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;1.83;2
+844;Paula Brown;54;Man;Sverige;Helsidereklam;Husbil-Lyx;3.99;0
+845;Christina Brown;77;Man;Danmark;Popuppreklam med musik;Husbil-Familj;1.84;0
+846;Mrs. Caroline Burke;50;Man;Sverige;Popuppreklam med musik;Husbil-Familj;1.85;0
+847;Kenneth Ashley;43;Man;Sverige;Popuppreklam med musik;Husbil-Sport;1.86;2
+848;Katie Knight;38;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;1.88;1
+849;Christina Anderson;37;Kvinna;Danmark;Helsidereklam;Husbil-Familj;5.04;2
+850;Brooke Snyder;30;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;1.9;1
+851;David Murphy;61;Man;Sverige;Helsidereklam;Husbil-Sport;6.17;2
+852;Angela Simpson;57;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.9;1
+853;Debra Small;62;Kvinna;Norge;Sidebarreklam;Husbil-Familj;8.17;1
+854;Alicia Bowman;79;Man;Tyskland;Helsidereklam;Husbil-Sport;3.55;0
+855;Monica Davis;66;Kvinna;Tyskland;Popuppreklam med musik;Husbil-Budget;1.9;0
+856;Michael Cruz;71;Man;Sverige;Sidebarreklam;Husbil-Familj;8.17;1
+857;Ryan Brown;80;Man;Sverige;Sidebarreklam;Husbil-Budget;8.16;1
+858;Nancy Wiley;43;Man;Danmark;Sidebarreklam;Husbil-Familj;8.15;1
+859;Caroline Davis;29;Man;Sverige;Helsidereklam;Husbil-Sport;3.35;4
+860;Jennifer Colon;70;Man;Danmark;Sidebarreklam;Husbil-Sport;8.15;2
+861;Debra Spencer;54;Man;Norge;Popuppreklam med musik;Husbil-Budget;1.9;1
+862;Bruce Griffith;25;Man;Sverige;Helsidereklam;Husbil-Familj;6.14;2
+863;Jessica Hernandez;21;Man;Norge;Helsidereklam;Husbil-Lyx;4.17;2
+864;Pamela Payne;30;Man;Sverige;Sidebarreklam;Husbil-Lyx;8.14;1
+865;Dr. Michelle Mathis;50;Man;Sverige;Helsidereklam;Husbil-Sport;5.6;1
+866;Amber Stevenson;49;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;8.13;1
+867;Andrew Price;74;Kvinna;Tyskland;Sidebarreklam;Husbil-Lyx;8.13;2
+868;Chad Bailey;41;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;1.92;1
+869;Samantha Hanson;42;Kvinna;Norge;Sidebarreklam;Husbil-Familj;8.08;4
+870;Jason Smith;47;Man;Sverige;Popuppreklam med musik;Husbil-Familj;1.93;0
+871;Terri Cook;64;Man;Sverige;Sidebarreklam;Husbil-Sport;8.07;2
+872;Kristen Morris DDS;73;Man;Danmark;Popuppreklam med musik;Husbil-Budget;1.93;1
+873;Whitney Perez;66;Man;Sverige;Helsidereklam;Husbil-Sport;3.47;1
+874;Christina Smith;77;Kvinna;Norge;Sidebarreklam;Husbil-Sport;8.05;0
+875;Anna Williams;40;Man;Sverige;Sidebarreklam;Husbil-Budget;8.04;2
+876;Jaime Jacobs;39;Man;Norge;Helsidereklam;Husbil-Sport;4.09;4
+877;Lisa Lewis;55;Kvinna;England;Popuppreklam med musik;Husbil-Budget;1.94;2
+878;Sheila Mcintosh;50;Kvinna;Sverige;Helsidereklam;Husbil-Sport;5.65;2
+879;Kathryn Burke;42;Man;Norge;Helsidereklam;Husbil-Sport;4.6;1
+880;Jennifer Willis;60;Man;Tyskland;Sidebarreklam;Husbil-Sport;8.03;0
+881;Kathryn King;78;Kvinna;Tyskland;Helsidereklam;Husbil-Sport;7.76;1
+882;Tina Russell;33;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;8.02;3
+883;Regina Jackson;69;Kvinna;Danmark;Helsidereklam;Husbil-Budget;6.16;2
+884;Cody Wade;54;Man;Sverige;Sidebarreklam;Husbil-Sport;8.02;1
+885;Andrew Bradley;67;Kvinna;Danmark;Helsidereklam;Husbil-Familj;7.41;1
+886;Nichole Jackson;78;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;1.95;0
+887;Sonya Johnson MD;69;Kvinna;Sverige;Sidebarreklam;Husbil-Lyx;8.02;2
+888;Kim Benitez;20;Man;Sverige;Helsidereklam;Husbil-Familj;2.72;1
+889;Juan Hernandez;37;Man;Sverige;Sidebarreklam;Husbil-Sport;8.02;2
+890;William Boone;30;Man;Danmark;Popuppreklam med musik;Husbil-Budget;1.95;1
+891;Trevor Mcmillan;62;Man;Sverige;Popuppreklam med musik;Husbil-Budget;1.96;1
+892;Bradley Hendrix;78;Man;Norge;Popuppreklam med musik;Husbil-Lyx;1.99;1
+893;Chad Fleming;35;Man;Norge;Popuppreklam med musik;Husbil-Budget;1.99;3
+894;Sharon Leonard;41;Kvinna;Norge;Helsidereklam;Husbil-Lyx;4.28;2
+895;Sara Solis;19;Man;Tyskland;Helsidereklam;Husbil-Budget;3.93;1
+896;Jesse Davis;50;Kvinna;Sverige;Popuppreklam med musik;Husbil-Lyx;2;1
+897;Erin Henderson;70;Man;Sverige;Sidebarreklam;Husbil-Budget;8.01;2
+898;Abigail Jones;64;Man;Sverige;Helsidereklam;Husbil-Budget;5.52;1
+899;Jennifer Hays;58;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;2.01;1
+900;Mr. Austin Jones;75;Man;Danmark;Popuppreklam med musik;Husbil-Familj;2.01;2
+901;Daniel White;52;Man;Norge;Popuppreklam med musik;Husbil-Lyx;2.02;0
+902;Erin Moore;42;Man;Norge;Sidebarreklam;Husbil-Lyx;8.01;1
+903;Daniel Cantrell;55;Man;England;Helsidereklam;Husbil-Lyx;6.38;1
+904;Colleen Duncan;30;Kvinna;Norge;Sidebarreklam;Husbil-Familj;8.01;1
+905;Cynthia Holt;52;Man;Tyskland;Popuppreklam med musik;Husbil-Familj;2.03;1
+906;Ashley Beard;51;Kvinna;Sverige;Popuppreklam med musik;Husbil-Budget;2.03;1
+907;Jerry Rogers;30;Man;Norge;Sidebarreklam;Husbil-Lyx;8;1
+908;Renee Patel;46;Man;Sverige;Helsidereklam;Husbil-Budget;4.2;1
+909;Kimberly Wilson;33;Man;Sverige;Helsidereklam;Husbil-Lyx;5.78;1
+910;Louis Jacobs;61;Man;Norge;Popuppreklam med musik;Husbil-Budget;2.04;2
+911;Rachel Marquez;56;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.04;2
+912;Janet Rangel;33;Kvinna;Norge;Sidebarreklam;Husbil-Familj;8;1
+913;Susan Burns;77;Man;Sverige;Helsidereklam;Husbil-Budget;3.2;1
+914;Tonya Singleton PhD;72;Man;Danmark;Sidebarreklam;Husbil-Sport;8;3
+915;Nicole Osborne;55;Man;Sverige;Sidebarreklam;Husbil-Lyx;7.99;2
+916;Charles Levy;78;Kvinna;Sverige;Helsidereklam;Husbil-Lyx;4.36;4
+917;Robert Brown;65;Man;Sverige;Helsidereklam;Husbil-Lyx;7.4;1
+918;Sandra Pham;71;Kvinna;Norge;Sidebarreklam;Husbil-Familj;7.98;1
+919;Michael Ayala;28;Kvinna;England;Sidebarreklam;Husbil-Budget;7.97;2
+920;Rebecca Bender;67;Man;Sverige;Helsidereklam;Husbil-Familj;5.99;1
+921;Nicole Quinn;55;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;7.97;1
+922;Sabrina Harris;42;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.05;2
+923;Nicole Ramsey;40;Man;Sverige;Helsidereklam;Husbil-Budget;6.08;1
+924;Robert Russell;21;Man;Sverige;Sidebarreklam;Husbil-Sport;7.97;0
+925;Sean Mathews;73;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;7.96;2
+926;Anthony Richardson;46;Man;Sverige;Sidebarreklam;Husbil-Familj;7.96;2
+927;Kenneth Wilson;44;Man;Sverige;Helsidereklam;Husbil-Budget;5.38;3
+928;Susan Howell;67;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;3.98;2
+929;Jennifer Stevens;75;Man;Sverige;Sidebarreklam;Husbil-Budget;7.96;1
+930;William Terry;55;Man;Norge;Popuppreklam med musik;Husbil-Lyx;2.07;1
+931;Brian Perry;67;Kvinna;Danmark;Helsidereklam;Husbil-Familj;7.91;1
+932;Bethany Wilson;71;Kvinna;Norge;Sidebarreklam;Husbil-Sport;7.94;0
+933;William Johnson;65;Kvinna;England;Popuppreklam med musik;Husbil-Lyx;2.08;2
+934;Teresa Matthews;59;Man;Norge;Helsidereklam;Husbil-Familj;3.73;0
+935;Bryan Butler;20;Man;England;Popuppreklam med musik;Husbil-Lyx;2.11;0
+936;Charles Miller;43;Man;Norge;Helsidereklam;Husbil-Budget;6.05;2
+937;Jason Rivera;43;Man;Tyskland;Popuppreklam med musik;Husbil-Sport;2.11;1
+938;Tracy Hamilton;48;Man;Sverige;Sidebarreklam;Husbil-Sport;7.93;2
+939;Elizabeth Weber;54;Kvinna;Norge;Helsidereklam;Husbil-Budget;7.67;1
+940;Stephanie Moran;53;Man;England;Sidebarreklam;Husbil-Lyx;7.93;3
+941;Ricardo Taylor;66;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;7.92;1
+942;Jennifer Johnson;56;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;2.14;0
+943;Veronica Underwood;59;Man;Sverige;Sidebarreklam;Husbil-Budget;7.92;0
+944;James Hill;48;Man;Sverige;Popuppreklam med musik;Husbil-Budget;2.15;1
+945;Shawn Wood;40;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;7.92;0
+946;Mercedes Carroll;30;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;2.15;2
+947;Jessica White;63;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.17;1
+948;Heather Daniels;44;Man;Sverige;Helsidereklam;Husbil-Budget;4.26;2
+949;Sheena Sexton;56;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;6.05;2
+950;Amy Moody;64;Man;Sverige;Helsidereklam;Husbil-Lyx;6.21;1
+951;Sarah Summers;48;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;2.47;1
+952;Melinda Norman;54;Kvinna;Norge;Helsidereklam;Husbil-Budget;3.31;2
+953;Margaret Garcia;61;Man;Danmark;Sidebarreklam;Husbil-Lyx;7.92;0
+954;Edward Ray;68;Man;Tyskland;Sidebarreklam;Husbil-Budget;7.91;1
+955;Robert Hernandez;65;Man;Sverige;Sidebarreklam;Husbil-Familj;7.91;1
+956;Kimberly Wilson;35;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;7.91;0
+957;Emily Bishop;36;Man;England;Popuppreklam med musik;Husbil-Budget;2.17;2
+958;Whitney Le;62;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;7.9;0
+959;Rhonda Scott;60;Man;England;Popuppreklam med musik;Husbil-Sport;2.18;2
+960;Kurt Rivera;55;Man;Norge;Popuppreklam med musik;Husbil-Sport;2.18;1
+961;Mr. Nicholas Proctor PhD;77;Man;Sverige;Sidebarreklam;Husbil-Familj;7.89;1
+962;Douglas Weeks;38;Man;Danmark;Sidebarreklam;Husbil-Familj;7.89;1
+963;Kathryn Moore;76;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;7.89;3
+964;Chris Edwards;49;Man;Danmark;Sidebarreklam;Husbil-Budget;7.89;1
+965;Dr. Michael Garcia;38;Man;Tyskland;Popuppreklam med musik;Husbil-Lyx;2.2;2
+966;Brandi Nguyen;35;Man;Norge;Sidebarreklam;Husbil-Budget;7.88;2
+967;Jordan Ramirez;24;Man;Sverige;Sidebarreklam;Husbil-Familj;7.87;1
+968;Paul Cole;45;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;2.2;3
+969;James Harris;43;Kvinna;Danmark;Helsidereklam;Husbil-Sport;4.71;2
+970;Heather Townsend;41;Kvinna;Norge;Helsidereklam;Husbil-Budget;5.66;0
+971;Debbie Cortez;49;Man;Sverige;Helsidereklam;Husbil-Sport;6.04;3
+972;Megan Trujillo;79;Man;Tyskland;Popuppreklam med musik;Husbil-Sport;2.25;2
+973;Rebecca Maynard MD;77;Kvinna;Norge;Helsidereklam;Husbil-Familj;3.63;1
+974;Yvonne Wilson;27;Kvinna;Danmark;Helsidereklam;Husbil-Familj;4.01;1
+975;Jerry Skinner;24;Man;Norge;Helsidereklam;Husbil-Sport;6.46;0
+976;Jeffrey Hernandez;60;Man;Danmark;Popuppreklam med musik;Husbil-Budget;2.26;0
+977;Dwayne Moreno;22;Man;Sverige;Helsidereklam;Husbil-Budget;5.09;3
+978;Brian Ramirez;22;Man;Sverige;Sidebarreklam;Husbil-Sport;7.87;1
+979;Robert Williams;32;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;3.89;1
+980;Jay Bridges;67;Kvinna;Norge;Helsidereklam;Husbil-Familj;6.71;1
+981;Jacob Simmons;57;Man;Sverige;Helsidereklam;Husbil-Familj;5.71;0
+982;Brittany Bowen;23;Kvinna;Danmark;Helsidereklam;Husbil-Familj;5.37;2
+983;Nicholas Harris;58;Kvinna;Danmark;Helsidereklam;Husbil-Sport;5.63;2
+984;Scott Wilson;65;Man;Norge;Helsidereklam;Husbil-Familj;5.9;1
+985;Brandon Smith;67;Man;Norge;Popuppreklam med musik;Husbil-Budget;2.26;2
+986;Jonathan Shepard;39;Man;Sverige;Popuppreklam med musik;Husbil-Familj;2.26;3
+987;Misty Parker;51;Man;Sverige;Popuppreklam med musik;Husbil-Sport;2.27;1
+988;Shari Miller;53;Kvinna;Danmark;Helsidereklam;Husbil-Familj;3.52;2
+989;Barry Dunn;71;Man;Sverige;Helsidereklam;Husbil-Lyx;6.96;2
+990;Michelle Scott;28;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;7.87;0
+991;Hannah Holloway;47;Kvinna;England;Popuppreklam med musik;Husbil-Sport;2.28;2
+992;Sharon Mckenzie;71;Man;Norge;Popuppreklam med musik;Husbil-Lyx;2.29;1
+993;David Newton;32;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;7.87;1
+994;Christopher Rodriguez;67;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;2.29;1
+995;Emily Gilbert;65;Man;Norge;Helsidereklam;Husbil-Budget;3.57;1
+996;Chad Oconnor;35;Man;Sverige;Sidebarreklam;Husbil-Familj;7.84;1
+997;Christine Thompson;50;Man;Sverige;Popuppreklam med musik;Husbil-Budget;2.29;1
+998;Dennis Fritz;50;Man;Sverige;Helsidereklam;Husbil-Lyx;7.79;0
+999;Wendy Harris;67;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.3;2
+1000;Jacqueline Vazquez;18;Man;Danmark;Popuppreklam med musik;Husbil-Lyx;2.31;1
+1001;James Schmidt;19;Kvinna;Tyskland;Sidebarreklam;Husbil-Budget;7.83;2
+1002;Mary Hayden;70;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;2.32;1
+1003;Jessica Aguirre;27;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.33;2
+1004;Logan Hale;60;Kvinna;Norge;Sidebarreklam;Husbil-Familj;7.81;1
+1005;Karen Benjamin;58;Man;Tyskland;Helsidereklam;Husbil-Sport;4.29;2
+1006;Megan Nichols;20;Man;Tyskland;Sidebarreklam;Husbil-Lyx;7.81;2
+1007;Dr. Bradley Bailey;56;Man;Sverige;Helsidereklam;Husbil-Lyx;3.93;0
+1008;Michael Brown;44;Man;England;Popuppreklam med musik;Husbil-Budget;2.33;0
+1009;David Johnson;20;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;7.8;1
+1010;Rhonda Mcintosh;38;Man;Norge;Popuppreklam med musik;Husbil-Budget;2.34;1
+1011;Linda Vasquez;39;Man;Norge;Popuppreklam med musik;Husbil-Budget;2.35;3
+1012;Stephen Kelly MD;72;Kvinna;Norge;Helsidereklam;Husbil-Familj;7.69;2
+1013;Gabriel Martinez;61;Man;Danmark;Helsidereklam;Husbil-Sport;5.62;3
+1014;Cheryl Lee;47;Man;Norge;Helsidereklam;Husbil-Sport;3.71;3
+1015;Mr. Joseph Quinn;43;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;2.37;0
+1016;John Mckinney;55;Man;Sverige;Sidebarreklam;Husbil-Budget;7.79;3
+1017;Shelia Huffman;47;Man;Tyskland;Popuppreklam med musik;Husbil-Familj;2.37;2
+1018;Hannah Christian;79;Man;Norge;Popuppreklam med musik;Husbil-Lyx;2.38;0
+1019;Jack Parker;30;Man;Norge;Sidebarreklam;Husbil-Sport;7.79;1
+1020;Crystal Murphy;75;Man;Danmark;Helsidereklam;Husbil-Sport;7.62;1
+1021;Amy Vega;49;Kvinna;Danmark;Helsidereklam;Husbil-Budget;7.28;1
+1022;Amy Miller;59;Man;Danmark;Popuppreklam med musik;Husbil-Sport;2.38;3
+1023;Margaret Potter;32;Man;Sverige;Helsidereklam;Husbil-Sport;4.54;1
+1024;Matthew Allen;52;Man;Norge;Popuppreklam med musik;Husbil-Familj;2.38;2
+1025;Jaime Ramirez;53;Man;Sverige;Sidebarreklam;Husbil-Lyx;7.79;0
+1026;Pamela Smith;28;Kvinna;Danmark;Helsidereklam;Husbil-Sport;3.56;1
+1027;Brian Barber;25;Man;Danmark;Sidebarreklam;Husbil-Sport;7.78;2
+1028;Jeffrey Williams;61;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;2.38;3
+1029;Dawn Young;26;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;7.78;0
+1030;Eric Mcguire;61;Kvinna;England;Popuppreklam med musik;Husbil-Sport;2.39;0
+1031;Brittany Wagner;41;Man;Sverige;Sidebarreklam;Husbil-Lyx;7.78;0
+1032;Jordan Bonilla;34;Man;Norge;Sidebarreklam;Husbil-Sport;7.77;4
+1033;Ryan Gordon;72;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;2.39;1
+1034;Seth Mendoza;22;Kvinna;Danmark;Helsidereklam;Husbil-Familj;4.91;2
+1035;Jennifer Craig;36;Man;Sverige;Sidebarreklam;Husbil-Lyx;7.77;1
+1036;Perry Brown;37;Man;Norge;Popuppreklam med musik;Husbil-Familj;2.45;0
+1037;Veronica Underwood;52;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;2.45;1
+1038;Lisa Fitzgerald;64;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.47;1
+1039;Randy Morris;72;Man;England;Sidebarreklam;Husbil-Sport;7.77;3
+1040;Shannon Snow;58;Kvinna;Danmark;Helsidereklam;Husbil-Budget;7.11;1
+1041;Joel Moore;71;Man;Tyskland;Popuppreklam med musik;Husbil-Sport;2.48;2
+1042;Carrie Gates;74;Kvinna;Norge;Helsidereklam;Husbil-Lyx;6.44;2
+1043;Mr. Andrew Maxwell;77;Kvinna;Norge;Helsidereklam;Husbil-Budget;4.1;1
+1044;Christine Wilkerson;34;Man;Sverige;Popuppreklam med musik;Husbil-Sport;2.49;0
+1045;Sophia Kramer;65;Man;Sverige;Sidebarreklam;Husbil-Familj;7.76;2
+1046;David Frey;25;Kvinna;Norge;Sidebarreklam;Husbil-Sport;7.75;1
+1047;Jennifer Riley;28;Man;Norge;Helsidereklam;Husbil-Lyx;6.64;3
+1048;Margaret Nelson;24;Kvinna;England;Popuppreklam med musik;Husbil-Familj;2.49;2
+1049;Brian Davis;50;Kvinna;Danmark;Helsidereklam;Husbil-Sport;4.38;1
+1050;Dawn Peters;58;Man;Sverige;Helsidereklam;Husbil-Lyx;5.76;2
+1051;Jeffery Ware;18;Man;Norge;Popuppreklam med musik;Husbil-Sport;2.49;1
+1052;Janet Black;21;Man;Sverige;Sidebarreklam;Husbil-Sport;7.74;1
+1053;Tony Allen;45;Man;Norge;Sidebarreklam;Husbil-Familj;7.73;1
+1054;Cynthia Reyes;28;Man;Danmark;Popuppreklam med musik;Husbil-Sport;2.5;1
+1055;Tyler Archer;27;Man;Sverige;Popuppreklam med musik;Husbil-Sport;2.51;2
+1056;Deborah King;76;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.51;0
+1057;Darrell Harris;62;Man;Sverige;Helsidereklam;Husbil-Budget;2.97;1
+1058;Alicia Moore;78;Man;Sverige;Popuppreklam med musik;Husbil-Familj;2.51;2
+1059;Michael Shaffer MD;38;Kvinna;Sverige;Helsidereklam;Husbil-Budget;3.49;0
+1060;Rick Reynolds;30;Man;Sverige;Helsidereklam;Husbil-Sport;6.62;1
+1061;Zachary Cunningham;42;Man;Sverige;Sidebarreklam;Husbil-Budget;7.72;3
+1062;Kevin Garrison;31;Man;Norge;Sidebarreklam;Husbil-Familj;7.71;1
+1063;Kenneth Pace;76;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;2.51;2
+1064;Melissa Clayton;49;Man;Sverige;Popuppreklam med musik;Husbil-Sport;2.52;0
+1065;John Garner;79;Man;Tyskland;Sidebarreklam;Husbil-Budget;7.71;2
+1066;Theresa Werner;44;Man;Sverige;Sidebarreklam;Husbil-Sport;7.71;1
+1067;Deborah Perez;73;Man;Danmark;Popuppreklam med musik;Husbil-Familj;2.52;1
+1068;Kimberly Thomas;25;Man;England;Helsidereklam;Husbil-Sport;6.77;1
+1069;Edward Peters;32;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.53;1
+1070;Megan Cox;38;Man;Sverige;Sidebarreklam;Husbil-Budget;7.71;0
+1071;Joshua Lee;23;Kvinna;Norge;Sidebarreklam;Husbil-Familj;7.69;2
+1072;Adam Williams;69;Kvinna;Norge;Popuppreklam med musik;Husbil-Sport;2.53;1
+1073;John Sullivan;27;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;7.69;0
+1074;Christine Hebert;80;Man;Danmark;Popuppreklam med musik;Husbil-Familj;2.55;2
+1075;Lisa Le;35;Kvinna;Danmark;Helsidereklam;Husbil-Familj;3.98;0
+1076;Christina Morrow;72;Kvinna;Norge;Popuppreklam med musik;Husbil-Budget;2.55;1
+1077;Jerry Harris;55;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.57;1
+1078;Anthony Russell;24;Kvinna;Norge;Helsidereklam;Husbil-Budget;3.82;0
+1079;Rebecca Walker;47;Man;Sverige;Helsidereklam;Husbil-Lyx;4.04;0
+1080;Leah Pierce;42;Man;Sverige;Sidebarreklam;Husbil-Budget;7.68;0
+1081;Lee Castro;53;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;7.66;2
+1082;Kenneth Crawford;43;Kvinna;Norge;Helsidereklam;Husbil-Budget;4.76;0
+1083;Brittany Torres;29;Man;Danmark;Helsidereklam;Husbil-Sport;6.42;0
+1084;Deborah Thompson;68;Kvinna;Norge;Helsidereklam;Husbil-Budget;3.86;1
+1085;Betty Allen;44;Kvinna;Sverige;Popuppreklam med musik;Husbil-Budget;2.58;3
+1086;Mr. Austin Christian;46;Man;Danmark;Helsidereklam;Husbil-Lyx;6.08;1
+1087;Alan Meyers;22;Man;Sverige;Sidebarreklam;Husbil-Sport;7.65;1
+1088;Jordan Smith;19;Man;Sverige;Sidebarreklam;Husbil-Sport;7.65;3
+1089;Thomas Pennington;38;Man;Sverige;Helsidereklam;Husbil-Budget;5.5;1
+1090;Noah Snow;70;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;7.65;2
+1091;Karina Mcfarland;48;Man;Sverige;Helsidereklam;Husbil-Lyx;3.56;1
+1092;Austin Payne;21;Man;Norge;Sidebarreklam;Husbil-Familj;7.64;1
+1093;Eric Conley;60;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;2.58;0
+1094;Elizabeth Moody;72;Man;Norge;Popuppreklam med musik;Husbil-Sport;2.58;5
+1095;Jesus Cunningham;67;Man;Norge;Helsidereklam;Husbil-Lyx;7.14;0
+1096;Dr. Paul Cantrell;56;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;7.64;0
+1097;John Anderson;61;Kvinna;Tyskland;Sidebarreklam;Husbil-Budget;7.64;2
+1098;Scott Morgan;49;Man;England;Sidebarreklam;Husbil-Budget;7.64;1
+1099;Rachel Hayes;37;Man;Tyskland;Popuppreklam med musik;Husbil-Lyx;2.59;2
+1100;April King;47;Man;Norge;Popuppreklam med musik;Husbil-Familj;2.59;0
+1101;Gabriella Weaver;52;Man;Sverige;Popuppreklam med musik;Husbil-Budget;2.59;1
+1102;Ryan Terry;36;Man;Sverige;Popuppreklam med musik;Husbil-Budget;2.59;2
+1103;Robert Romero;40;Kvinna;Tyskland;Sidebarreklam;Husbil-Familj;7.62;1
+1104;Olivia Wells MD;38;Man;England;Helsidereklam;Husbil-Familj;3.51;1
+1105;Brittney Saunders;53;Man;Sverige;Helsidereklam;Husbil-Familj;2.85;2
+1106;Brent Jones;77;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;7.61;0
+1107;Anthony Martinez;75;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;2.59;1
+1108;Gwendolyn Perkins;48;Man;Norge;Helsidereklam;Husbil-Budget;5.12;0
+1109;Lisa Mcmahon;57;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;2.6;2
+1110;Whitney Hall;38;Man;England;Helsidereklam;Husbil-Familj;3.01;1
+1111;Amy Scott;61;Kvinna;Norge;Sidebarreklam;Husbil-Budget;7.61;1
+1112;Sarah Martinez;66;Man;Sverige;Helsidereklam;Husbil-Familj;2.73;3
+1113;Brittany Allen;73;Man;Norge;Helsidereklam;Husbil-Budget;5.69;0
+1114;Brian Livingston;47;Man;Tyskland;Popuppreklam med musik;Husbil-Sport;2.61;0
+1115;Nicole Yates;59;Man;Tyskland;Helsidereklam;Husbil-Lyx;3.91;1
+1116;Brad Martinez;75;Man;Sverige;Sidebarreklam;Husbil-Familj;7.6;0
+1117;Joel Rangel;29;Man;Norge;Sidebarreklam;Husbil-Familj;7.58;2
+1118;David Ballard;46;Man;Norge;Helsidereklam;Husbil-Sport;4.67;3
+1119;Tiffany Jones;61;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;7.57;0
+1120;Linda Mueller;48;Kvinna;Norge;Sidebarreklam;Husbil-Lyx;7.55;1
+1121;Jessica Lewis;33;Man;Sverige;Popuppreklam med musik;Husbil-Sport;2.61;2
+1122;Ruth Cameron;19;Kvinna;Sverige;Sidebarreklam;Husbil-Sport;7.55;1
+1123;Jeffrey Wells;64;Man;Norge;Popuppreklam med musik;Husbil-Budget;2.62;1
+1124;Brandon Wright;43;Man;Norge;Popuppreklam med musik;Husbil-Budget;2.63;1
+1125;Jesse Martin DVM;32;Man;Sverige;Sidebarreklam;Husbil-Familj;7.54;0
+1126;David Watson;53;Man;Sverige;Helsidereklam;Husbil-Familj;5.97;1
+1127;Tonya Smith;43;Kvinna;Sverige;Popuppreklam med musik;Husbil-Familj;2.63;1
+1128;Richard Johnson;40;Man;Norge;Popuppreklam med musik;Husbil-Budget;2.64;0
+1129;Jeremy Duarte;30;Man;Sverige;Helsidereklam;Husbil-Lyx;3.97;2
+1130;Lori Brooks;71;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;2.64;1
+1131;Destiny Sanchez;38;Kvinna;Norge;Popuppreklam med musik;Husbil-Budget;2.64;1
+1132;Aaron Hansen;78;Man;Sverige;Helsidereklam;Husbil-Familj;3.79;1
+1133;Chloe Vasquez;29;Man;Sverige;Sidebarreklam;Husbil-Budget;7.52;1
+1134;Ashley Frazier;41;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;2.64;2
+1135;Rhonda Yu;77;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;7.52;0
+1136;William Davis;66;Man;Sverige;Popuppreklam med musik;Husbil-Budget;2.65;0
+1137;Adam Hall;39;Man;Norge;Popuppreklam med musik;Husbil-Lyx;2.65;0
+1138;Gary Collins;45;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;2.66;1
+1139;Jeffrey Snyder;43;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;2.66;3
+1140;Emily Nelson;24;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;6.92;0
+1141;Belinda Jones;72;Man;Sverige;Popuppreklam med musik;Husbil-Familj;2.67;2
+1142;Juan Clark;64;Man;Norge;Popuppreklam med musik;Husbil-Lyx;2.68;1
+1143;Bradley Ellis;29;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;2.7;0
+1144;Courtney Howell;44;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.7;1
+1145;Timothy Goodman;51;Man;Tyskland;Helsidereklam;Husbil-Sport;5.9;1
+1146;Holly Walker;28;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;7.51;0
+1147;Diane Williams;39;Man;England;Helsidereklam;Husbil-Sport;4.94;1
+1148;Paul Graham;32;Man;Norge;Popuppreklam med musik;Husbil-Lyx;2.7;1
+1149;Monica Ho;21;Kvinna;Tyskland;Helsidereklam;Husbil-Sport;2.8;1
+1150;Steven Jensen;74;Man;Sverige;Helsidereklam;Husbil-Familj;6.86;1
+1151;Joel Hicks;31;Man;Sverige;Sidebarreklam;Husbil-Familj;7.51;0
+1152;Samantha Cook;40;Kvinna;Danmark;Helsidereklam;Husbil-Sport;5.09;3
+1153;Joseph Craig;61;Man;Danmark;Sidebarreklam;Husbil-Budget;7.5;1
+1154;Ricky Mata;62;Man;Sverige;Sidebarreklam;Husbil-Familj;7.5;2
+1155;Mariah King;37;Kvinna;Sverige;Sidebarreklam;Husbil-Familj;7.49;1
+1156;Benjamin Garrett;71;Man;Norge;Helsidereklam;Husbil-Sport;2.83;1
+1157;Brittany Jefferson;67;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;2.71;1
+1158;Julie Cochran;36;Man;Norge;Sidebarreklam;Husbil-Sport;7.49;0
+1159;Kimberly Johnson;79;Kvinna;Norge;Helsidereklam;Husbil-Sport;4.15;2
+1160;Jamie Robinson;28;Man;Sverige;Popuppreklam med musik;Husbil-Familj;2.72;0
+1161;Melissa Ramirez;45;Man;Sverige;Sidebarreklam;Husbil-Sport;7.48;2
+1162;Monica Davis;38;Kvinna;Sverige;Popuppreklam med musik;Husbil-Familj;2.73;1
+1163;Andrew Evans;77;Man;Norge;Sidebarreklam;Husbil-Lyx;7.48;1
+1164;Anne Garcia;44;Man;Sverige;Sidebarreklam;Husbil-Familj;7.47;0
+1165;Jason Fisher;73;Man;Sverige;Popuppreklam med musik;Husbil-Familj;2.73;0
+1166;Ryan Davis;50;Man;Sverige;Sidebarreklam;Husbil-Sport;7.47;2
+1167;Sheila Allen;80;Man;Sverige;Helsidereklam;Husbil-Familj;6.91;0
+1168;Timothy Bowman;34;Man;Sverige;Popuppreklam med musik;Husbil-Sport;2.74;3
+1169;Robert Brown;40;Man;Sverige;Helsidereklam;Husbil-Familj;5.05;1
+1170;David Barron;20;Man;Tyskland;Sidebarreklam;Husbil-Sport;7.45;2
+1171;Robert Pena;56;Man;Sverige;Sidebarreklam;Husbil-Familj;7.45;0
+1172;Mary Smith;35;Man;Sverige;Popuppreklam med musik;Husbil-Sport;2.74;1
+1173;Michael Scott;67;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;2.74;2
+1174;Jeremy Bonilla;71;Man;Sverige;Popuppreklam med musik;Husbil-Sport;2.75;2
+1175;Karen Kennedy;72;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;7.44;1
+1176;Teresa King;58;Kvinna;Danmark;Helsidereklam;Husbil-Sport;6.98;0
+1177;Hector Willis;34;Man;Danmark;Helsidereklam;Husbil-Sport;6.91;1
+1178;Matthew Bradley;69;Kvinna;Danmark;Helsidereklam;Husbil-Budget;6.37;2
+1179;Jacob Olsen;79;Kvinna;Norge;Sidebarreklam;Husbil-Lyx;7.43;0
+1180;Jill Chapman;51;Man;Sverige;Helsidereklam;Husbil-Budget;4.97;0
+1181;Scott Pacheco;63;Man;Sverige;Popuppreklam med musik;Husbil-Budget;2.77;1
+1182;Monica Washington;33;Man;Sverige;Sidebarreklam;Husbil-Lyx;7.43;1
+1183;Brenda Miller;55;Man;Sverige;Sidebarreklam;Husbil-Familj;7.43;3
+1184;Yvonne Branch;31;Kvinna;Tyskland;Sidebarreklam;Husbil-Budget;7.43;1
+1185;Rodney Taylor;20;Man;Sverige;Popuppreklam med musik;Husbil-Sport;2.77;1
+1186;Samuel Simpson;39;Man;Sverige;Helsidereklam;Husbil-Familj;6.25;1
+1187;Stephanie Torres;60;Man;Sverige;Sidebarreklam;Husbil-Budget;7.42;1
+1188;Colton Johnson;23;Man;Tyskland;Popuppreklam med musik;Husbil-Lyx;2.79;2
+1189;Joshua Bradford;31;Man;Sverige;Sidebarreklam;Husbil-Lyx;7.41;0
+1190;Jose Phelps;63;Kvinna;England;Popuppreklam med musik;Husbil-Budget;2.81;1
+1191;Roger Bryant;67;Man;Danmark;Popuppreklam med musik;Husbil-Sport;2.81;3
+1192;Emily Allen;41;Man;Sverige;Helsidereklam;Husbil-Lyx;5.69;0
+1193;Christopher Cook;50;Man;Sverige;Popuppreklam med musik;Husbil-Budget;2.82;1
+1194;Jason Murphy;57;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.82;2
+1195;Lynn Vargas;41;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;7.41;1
+1196;Beth Hill;65;Man;England;Helsidereklam;Husbil-Familj;4;2
+1197;Joseph Flores MD;72;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;7.41;1
+1198;Morgan Conley;30;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;7.4;1
+1199;Catherine Rice;42;Kvinna;Sverige;Popuppreklam med musik;Husbil-Sport;2.82;1
+1200;April Johnson;73;Man;Danmark;Popuppreklam med musik;Husbil-Lyx;2.83;0
+1201;Aaron Ellis;46;Kvinna;Sverige;Popuppreklam med musik;Husbil-Familj;2.83;0
+1202;Mark Adams;58;Man;Norge;Popuppreklam med musik;Husbil-Lyx;2.84;1
+1203;Jesus Mercado;43;Man;Danmark;Sidebarreklam;Husbil-Sport;7.39;0
+1204;Jeremy Bryant;23;Man;Norge;Sidebarreklam;Husbil-Familj;7.38;1
+1205;Erin Morales;36;Kvinna;Norge;Helsidereklam;Husbil-Budget;4.99;1
+1206;Catherine Foster;57;Kvinna;Tyskland;Popuppreklam med musik;Husbil-Budget;2.85;1
+1207;Andrea Ramirez DDS;51;Man;Sverige;Helsidereklam;Husbil-Lyx;5.09;1
+1208;Norma Jackson;76;Man;England;Popuppreklam med musik;Husbil-Lyx;2.87;4
+1209;John Young;24;Man;Sverige;Popuppreklam med musik;Husbil-Familj;2.87;2
+1210;April Smith;61;Man;Tyskland;Helsidereklam;Husbil-Sport;5.62;4
+1211;Thomas Howard;75;Man;Sverige;Popuppreklam med musik;Husbil-Sport;2.87;1
+1212;Michele Robertson;72;Man;Danmark;Popuppreklam med musik;Husbil-Budget;2.87;1
+1213;Danielle Johnson;20;Man;Sverige;Helsidereklam;Husbil-Familj;6.22;1
+1214;Catherine Martinez;42;Man;Sverige;Sidebarreklam;Husbil-Sport;7.38;4
+1215;Laura Alexander MD;28;Man;Danmark;Popuppreklam med musik;Husbil-Budget;2.88;1
+1216;Michael Cline;50;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.91;1
+1217;Tina Sanchez;48;Man;Norge;Popuppreklam med musik;Husbil-Sport;2.91;2
+1218;Paul Rich;45;Man;Norge;Popuppreklam med musik;Husbil-Sport;2.92;1
+1219;John Chavez;30;Man;Sverige;Helsidereklam;Husbil-Sport;3.87;1
+1220;Jeanne Howard;69;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;2.92;1
+1221;Heather Hoffman;55;Kvinna;England;Helsidereklam;Husbil-Sport;6.86;1
+1222;Paul Jones;52;Man;Sverige;Helsidereklam;Husbil-Sport;6.23;1
+1223;John West;49;Man;Sverige;Helsidereklam;Husbil-Familj;4.83;1
+1224;Travis King;76;Man;Sverige;Sidebarreklam;Husbil-Familj;7.37;2
+1225;Travis Rice;75;Man;Sverige;Helsidereklam;Husbil-Lyx;5.12;2
+1226;Cheryl Lutz;72;Man;Sverige;Helsidereklam;Husbil-Sport;5.41;1
+1227;Shannon Noble;19;Man;Tyskland;Sidebarreklam;Husbil-Familj;7.37;3
+1228;Jessica Mason;75;Man;Tyskland;Helsidereklam;Husbil-Lyx;3.2;0
+1229;Jessica Ryan;45;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;7.36;1
+1230;Ashley Williams;71;Man;Norge;Helsidereklam;Husbil-Lyx;4.79;2
+1231;Anna Kim;77;Man;Norge;Sidebarreklam;Husbil-Budget;7.36;0
+1232;Melanie Nelson;76;Man;Tyskland;Helsidereklam;Husbil-Sport;6.46;1
+1233;Emma Cooper;50;Man;Sverige;Helsidereklam;Husbil-Lyx;4.1;1
+1234;Sabrina Todd;31;Man;Sverige;Sidebarreklam;Husbil-Familj;7.36;0
+1235;Stephanie Perez;56;Man;Norge;Helsidereklam;Husbil-Budget;7.02;1
+1236;Kristina Esparza;22;Man;Sverige;Helsidereklam;Husbil-Budget;5.01;1
+1237;Vincent Knox;31;Man;Sverige;Sidebarreklam;Husbil-Familj;7.33;0
+1238;Diane Garcia;56;Kvinna;Norge;Helsidereklam;Husbil-Budget;3.31;0
+1239;Kayla Henderson;37;Man;Norge;Popuppreklam med musik;Husbil-Lyx;2.92;0
+1240;Tyler Wade;39;Kvinna;Norge;Popuppreklam med musik;Husbil-Budget;2.93;1
+1241;Anthony Diaz;37;Man;Norge;Popuppreklam med musik;Husbil-Budget;2.94;0
+1242;Eric Nielsen;27;Man;Tyskland;Helsidereklam;Husbil-Lyx;5.32;2
+1243;Brenda Williams;55;Man;Norge;Sidebarreklam;Husbil-Sport;7.33;1
+1244;James Owens;49;Kvinna;Norge;Sidebarreklam;Husbil-Sport;7.31;1
+1245;Richard Fields;23;Man;Sverige;Sidebarreklam;Husbil-Budget;7.3;0
+1246;Andrea Pratt;22;Man;Norge;Helsidereklam;Husbil-Sport;4.21;1
+1247;Tammy Scott;52;Man;Sverige;Helsidereklam;Husbil-Lyx;7;1
+1248;Kurt Davis;46;Man;Tyskland;Sidebarreklam;Husbil-Lyx;7.3;1
+1249;Daniel Stanley;44;Man;Sverige;Popuppreklam med musik;Husbil-Budget;2.94;2
+1250;Cheryl Schmidt;28;Kvinna;Danmark;Helsidereklam;Husbil-Familj;3.91;2
+1251;Jessica Pruitt;34;Man;Sverige;Sidebarreklam;Husbil-Sport;7.29;0
+1252;Patricia Schroeder;20;Man;Sverige;Helsidereklam;Husbil-Budget;6.28;1
+1253;Danielle Butler;73;Man;Sverige;Popuppreklam med musik;Husbil-Budget;2.94;3
+1254;Joshua Phillips;45;Kvinna;Norge;Helsidereklam;Husbil-Lyx;5.74;0
+1255;Jonathan Fuller;28;Man;Sverige;Helsidereklam;Husbil-Lyx;6.94;0
+1256;Kenneth Berry;70;Man;Sverige;Helsidereklam;Husbil-Sport;6.91;2
+1257;Sara Fuller;40;Kvinna;Danmark;Helsidereklam;Husbil-Familj;5.53;1
+1258;Sydney Garcia;78;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;2.95;1
+1259;James Cooper;72;Man;Sverige;Popuppreklam med musik;Husbil-Budget;2.95;2
+1260;Annette Harris;68;Man;Norge;Popuppreklam med musik;Husbil-Familj;2.95;1
+1261;Randy Harrell;53;Man;Sverige;Popuppreklam med musik;Husbil-Sport;2.96;1
+1262;Lori Pittman;21;Man;Sverige;Popuppreklam med musik;Husbil-Familj;2.98;0
+1263;Savannah Peck;67;Man;Sverige;Sidebarreklam;Husbil-Sport;7.29;1
+1264;Christopher Johnson;36;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;2.99;1
+1265;Jillian Reid;78;Man;Norge;Sidebarreklam;Husbil-Lyx;7.27;2
+1266;Michael Myers;31;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3;0
+1267;Mark Burton;32;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;4.09;0
+1268;Anthony Brooks;43;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;3.02;0
+1269;Krista Montgomery;48;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.05;1
+1270;Michelle Patterson;33;Man;Tyskland;Sidebarreklam;Husbil-Lyx;7.27;0
+1271;Brian Diaz;38;Man;Sverige;Sidebarreklam;Husbil-Sport;7.27;1
+1272;Todd Lloyd;77;Kvinna;Tyskland;Sidebarreklam;Husbil-Sport;7.26;0
+1273;Michael Nguyen;35;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;6.65;1
+1274;Mary Smith;73;Man;Sverige;Sidebarreklam;Husbil-Lyx;7.24;1
+1275;William Lang;38;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.06;1
+1276;Tiffany King;55;Man;Sverige;Sidebarreklam;Husbil-Familj;7.24;2
+1277;Sarah Jones;40;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;7.23;3
+1278;Derrick Sherman;40;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;3.06;1
+1279;Brooke Nichols;79;Kvinna;Tyskland;Helsidereklam;Husbil-Budget;5.44;2
+1280;Amanda Stevens;31;Man;Sverige;Helsidereklam;Husbil-Budget;5.35;0
+1281;Nicholas Miller;34;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.06;1
+1282;William Morgan;38;Kvinna;Norge;Sidebarreklam;Husbil-Familj;7.23;3
+1283;Brian Porter;46;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;7.23;1
+1284;Abigail Lopez;64;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.06;1
+1285;Dr. Tiffany Rodriguez;76;Man;England;Sidebarreklam;Husbil-Lyx;7.22;1
+1286;Phillip Wright;44;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;3.07;0
+1287;Kevin Schultz;40;Man;Sverige;Helsidereklam;Husbil-Budget;7.11;0
+1288;Timothy Bennett;80;Man;Sverige;Helsidereklam;Husbil-Familj;4.01;1
+1289;Michael Diaz;62;Kvinna;Norge;Sidebarreklam;Husbil-Budget;7.21;0
+1290;Jennifer Alvarez;26;Man;Sverige;Helsidereklam;Husbil-Budget;6.65;2
+1291;Mrs. Alison Parker;34;Man;Sverige;Sidebarreklam;Husbil-Budget;7.21;1
+1292;Lisa Miller;25;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;7.2;4
+1293;Joshua Jordan;48;Man;Norge;Helsidereklam;Husbil-Familj;3.22;0
+1294;Tyler Mckinney;74;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;7.2;1
+1295;Audrey Best;70;Man;Norge;Sidebarreklam;Husbil-Lyx;7.2;1
+1296;James Flores;79;Man;Sverige;Helsidereklam;Husbil-Familj;4.49;0
+1297;Angelica Decker;42;Man;Sverige;Helsidereklam;Husbil-Sport;4.4;2
+1298;Michelle Walsh;55;Man;Danmark;Popuppreklam med musik;Husbil-Sport;3.08;0
+1299;Thomas Davis;50;Kvinna;Danmark;Helsidereklam;Husbil-Sport;5.64;1
+1300;Dakota Miller;34;Kvinna;Danmark;Helsidereklam;Husbil-Familj;6.05;2
+1301;Patricia Knox;74;Kvinna;Tyskland;Popuppreklam med musik;Husbil-Budget;3.09;1
+1302;Craig Berry;43;Kvinna;Sverige;Helsidereklam;Husbil-Familj;5.2;2
+1303;Regina Lowery;56;Man;Sverige;Popuppreklam med musik;Husbil-Budget;3.1;0
+1304;William White;22;Man;Sverige;Helsidereklam;Husbil-Familj;3.17;2
+1305;Ian Alexander;38;Man;Norge;Helsidereklam;Husbil-Familj;6.22;1
+1306;Karen Shaw;58;Man;Sverige;Sidebarreklam;Husbil-Budget;7.19;0
+1307;Alexandra Diaz;66;Kvinna;Danmark;Helsidereklam;Husbil-Budget;5.93;2
+1308;William Diaz;19;Kvinna;Danmark;Helsidereklam;Husbil-Budget;3.14;2
+1309;Brian Griffin;61;Man;Danmark;Helsidereklam;Husbil-Sport;6.59;1
+1310;Wanda Blankenship;54;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;3.1;0
+1311;Marcus Rodriguez;71;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;3.11;2
+1312;Jillian Lowe;26;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;3.11;0
+1313;Kelly Gentry;53;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.11;1
+1314;Christina Barnes;75;Man;Norge;Popuppreklam med musik;Husbil-Budget;3.12;1
+1315;Stacey Arnold;67;Kvinna;Danmark;Helsidereklam;Husbil-Familj;5.23;0
+1316;Steven Choi;63;Kvinna;Danmark;Helsidereklam;Husbil-Budget;6.99;2
+1317;William Scott;34;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;6.06;1
+1318;Danielle Flynn;50;Man;Danmark;Popuppreklam med musik;Husbil-Familj;3.12;3
+1319;Joseph Juarez;40;Man;Sverige;Popuppreklam med musik;Husbil-Budget;3.13;0
+1320;Samuel Cisneros MD;63;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;3.14;2
+1321;Angela Williams;42;Man;Danmark;Helsidereklam;Husbil-Lyx;6.15;0
+1322;Joshua Davis;37;Man;Danmark;Popuppreklam med musik;Husbil-Sport;3.14;1
+1323;Sarah Garza DVM;63;Man;Danmark;Popuppreklam med musik;Husbil-Familj;3.14;1
+1324;Kelsey Hunter;53;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;3.15;2
+1325;Jennifer Smith;32;Man;Norge;Popuppreklam med musik;Husbil-Sport;3.16;2
+1326;Darlene Ochoa;40;Kvinna;Sverige;Popuppreklam med musik;Husbil-Sport;3.17;3
+1327;John Jones;23;Man;Sverige;Sidebarreklam;Husbil-Lyx;7.18;3
+1328;Caitlyn Watts;27;Man;Sverige;Helsidereklam;Husbil-Budget;6.46;2
+1329;James Wright;19;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;3.18;1
+1330;Mark Meyers;78;Man;Norge;Helsidereklam;Husbil-Familj;4.61;3
+1331;Elizabeth Jones;18;Man;Danmark;Popuppreklam med musik;Husbil-Budget;3.18;2
+1332;Sheryl Dixon;23;Kvinna;Danmark;Helsidereklam;Husbil-Budget;5.05;0
+1333;Raymond Butler;51;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.18;1
+1334;Joan Boone;37;Man;England;Helsidereklam;Husbil-Sport;5.26;2
+1335;Alex Peterson;67;Man;Sverige;Sidebarreklam;Husbil-Familj;7.18;2
+1336;Julia Shea MD;61;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;3.19;1
+1337;Christopher Skinner;75;Man;Norge;Sidebarreklam;Husbil-Budget;7.16;3
+1338;Lauren Martinez;68;Man;Tyskland;Sidebarreklam;Husbil-Lyx;7.15;2
+1339;Tara Cox;69;Man;Norge;Sidebarreklam;Husbil-Sport;7.15;0
+1340;Megan Lewis;50;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;3.19;2
+1341;Julia Conrad;67;Man;England;Sidebarreklam;Husbil-Lyx;7.15;0
+1342;Rachel Sullivan;79;Man;Norge;Popuppreklam med musik;Husbil-Familj;3.21;1
+1343;Dawn Butler;65;Man;Norge;Sidebarreklam;Husbil-Lyx;7.13;1
+1344;Michael Andrews;33;Man;England;Popuppreklam med musik;Husbil-Budget;3.22;1
+1345;Barbara Davis;72;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;3.23;0
+1346;Christopher Bennett;26;Man;Norge;Helsidereklam;Husbil-Sport;7.1;1
+1347;Elizabeth Green;28;Man;Sverige;Sidebarreklam;Husbil-Sport;7.13;0
+1348;Mary Weiss;68;Kvinna;Norge;Popuppreklam med musik;Husbil-Budget;3.23;1
+1349;Diana Thornton;67;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;7.13;2
+1350;Samantha Hernandez;78;Man;Norge;Popuppreklam med musik;Husbil-Familj;3.24;3
+1351;Christopher Sullivan;32;Man;Norge;Sidebarreklam;Husbil-Budget;7.12;1
+1352;Becky Young;27;Man;Norge;Popuppreklam med musik;Husbil-Familj;3.24;0
+1353;Theresa Valdez;60;Man;Norge;Sidebarreklam;Husbil-Sport;7.12;1
+1354;Theresa Cooper;49;Man;Norge;Helsidereklam;Husbil-Familj;4.86;1
+1355;Ryan Reed;79;Man;Sverige;Sidebarreklam;Husbil-Familj;7.12;0
+1356;Dawn Cohen;71;Man;Sverige;Helsidereklam;Husbil-Sport;7.1;1
+1357;Cynthia Campbell;43;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.25;1
+1358;Kimberly Miller;27;Man;Sverige;Helsidereklam;Husbil-Lyx;3.97;1
+1359;Michael Rivera;60;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.26;0
+1360;Chad Mckay;19;Kvinna;Norge;Helsidereklam;Husbil-Familj;4.01;1
+1361;Colleen Vargas;24;Man;Sverige;Sidebarreklam;Husbil-Lyx;7.1;0
+1362;Tom Ramos;80;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.26;1
+1363;John Davis MD;49;Man;Danmark;Helsidereklam;Husbil-Budget;5.98;2
+1364;Deanna Kline;70;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;3.28;0
+1365;Amber Benson;31;Kvinna;Norge;Sidebarreklam;Husbil-Budget;7.1;2
+1366;Mr. David Garcia Jr.;53;Kvinna;Danmark;Helsidereklam;Husbil-Sport;5.86;0
+1367;Samuel Parker;22;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;3.31;0
+1368;Darren Cook;43;Man;Sverige;Helsidereklam;Husbil-Familj;3.5;1
+1369;Whitney Wilson;69;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.31;0
+1370;Hailey Anderson;80;Kvinna;Sverige;Sidebarreklam;Husbil-Budget;7.09;3
+1371;Brandon Andersen;69;Man;England;Popuppreklam med musik;Husbil-Sport;3.32;1
+1372;Kimberly Merritt;47;Man;Norge;Popuppreklam med musik;Husbil-Lyx;3.34;1
+1373;Shawn Reeves PhD;49;Man;Sverige;Sidebarreklam;Husbil-Budget;7.08;4
+1374;Anthony Martin;67;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.34;0
+1375;Melinda Diaz;40;Kvinna;Norge;Helsidereklam;Husbil-Familj;5.34;1
+1376;Eric Cruz;34;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;7.08;0
+1377;Edward Jones;19;Man;Sverige;Sidebarreklam;Husbil-Sport;7.07;0
+1378;Thomas Dunn;33;Man;Sverige;Sidebarreklam;Husbil-Sport;7.07;0
+1379;William Roach;24;Man;Sverige;Sidebarreklam;Husbil-Familj;7.07;1
+1380;Lori Edwards;28;Man;Norge;Helsidereklam;Husbil-Budget;6.79;3
+1381;Daniel Tyler;49;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.34;0
+1382;James Weber MD;30;Man;Norge;Popuppreklam med musik;Husbil-Sport;3.35;2
+1383;Courtney Mendez;45;Man;Sverige;Helsidereklam;Husbil-Lyx;3.69;1
+1384;Daniel Lee;59;Man;Sverige;Helsidereklam;Husbil-Familj;6.82;2
+1385;Melissa Morgan;29;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;3.35;0
+1386;Kaitlyn Weiss;36;Man;Sverige;Helsidereklam;Husbil-Familj;6.56;1
+1387;Anita Howard;46;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;3.35;0
+1388;Heather Snyder;63;Man;Norge;Sidebarreklam;Husbil-Familj;7.06;1
+1389;William Newman DDS;79;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;7.05;3
+1390;Adam King;75;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;7.05;0
+1391;Daniel Jackson;35;Man;Sverige;Helsidereklam;Husbil-Familj;5.95;4
+1392;James Silva;78;Man;England;Helsidereklam;Husbil-Familj;3.68;0
+1393;Shaun Oliver;41;Man;Danmark;Sidebarreklam;Husbil-Familj;7.02;2
+1394;Dr. Grace Kim;71;Kvinna;Norge;Sidebarreklam;Husbil-Budget;7;1
+1395;Tabitha Craig;44;Man;Norge;Sidebarreklam;Husbil-Sport;7;1
+1396;Johnathan Clark;22;Man;Tyskland;Popuppreklam med musik;Husbil-Sport;3.35;1
+1397;Dr. John Adams DVM;78;Man;England;Helsidereklam;Husbil-Budget;6.75;2
+1398;Tammy White;69;Man;Sverige;Helsidereklam;Husbil-Budget;4.03;3
+1399;Katie Montgomery;74;Man;Sverige;Helsidereklam;Husbil-Familj;5.78;0
+1400;Daniel Garcia;25;Man;Norge;Sidebarreklam;Husbil-Sport;7;1
+1401;Jennifer Smith;41;Kvinna;Danmark;Helsidereklam;Husbil-Budget;3.82;2
+1402;Robert Taylor;77;Kvinna;Danmark;Helsidereklam;Husbil-Sport;5.67;2
+1403;Caroline White;74;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.35;0
+1404;Caroline Garcia;20;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;4.66;1
+1405;Michael Cunningham;55;Man;Norge;Popuppreklam med musik;Husbil-Lyx;3.38;1
+1406;Sean Huynh;57;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.39;1
+1407;Miranda Payne;50;Man;Sverige;Helsidereklam;Husbil-Lyx;3.42;1
+1408;Christopher Moss;54;Man;Danmark;Sidebarreklam;Husbil-Budget;6.99;0
+1409;Joann Lester;39;Kvinna;England;Helsidereklam;Husbil-Budget;4.44;0
+1410;Kurt Howard;43;Kvinna;Danmark;Helsidereklam;Husbil-Familj;4.77;0
+1411;Daniel Weeks;59;Man;Norge;Helsidereklam;Husbil-Familj;3.79;1
+1412;Timothy Reilly;61;Kvinna;England;Popuppreklam med musik;Husbil-Familj;3.39;1
+1413;Virginia Powers;51;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;4.79;2
+1414;Charles Carter;42;Man;Sverige;Sidebarreklam;Husbil-Budget;6.99;1
+1415;Jesse Brown;76;Man;Norge;Helsidereklam;Husbil-Lyx;4.35;1
+1416;Barbara Wood;53;Man;Norge;Sidebarreklam;Husbil-Sport;6.98;1
+1417;Linda Dixon;48;Man;Norge;Popuppreklam med musik;Husbil-Lyx;3.39;1
+1418;Heather Munoz;28;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;6.97;2
+1419;Mario Holland;38;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.39;1
+1420;Nancy Chen;20;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;3.41;2
+1421;Jordan Rice;29;Kvinna;Norge;Sidebarreklam;Husbil-Sport;6.97;0
+1422;Shelby Pacheco;29;Man;Sverige;Sidebarreklam;Husbil-Lyx;6.96;0
+1423;Jonathan Ward;22;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;3.41;1
+1424;Austin Joyce;70;Kvinna;Sverige;Sidebarreklam;Husbil-Lyx;6.94;1
+1425;Nathaniel Harris;52;Man;Sverige;Helsidereklam;Husbil-Budget;6.76;0
+1426;Veronica Hoffman;46;Man;Sverige;Sidebarreklam;Husbil-Budget;6.94;1
+1427;Kevin Martinez;36;Kvinna;Danmark;Helsidereklam;Husbil-Budget;5.47;1
+1428;Tyler Valdez;33;Kvinna;Danmark;Helsidereklam;Husbil-Sport;4.15;1
+1429;Erica Gomez;60;Man;Sverige;Helsidereklam;Husbil-Sport;4.46;0
+1430;Emily Decker;35;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;6.92;1
+1431;David Chang;58;Kvinna;Danmark;Helsidereklam;Husbil-Familj;4.75;0
+1432;Latoya Monroe;52;Man;Norge;Helsidereklam;Husbil-Familj;4.08;1
+1433;Jennifer Hood;53;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;3.42;1
+1434;Christopher Woodward;35;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.42;0
+1435;Matthew Moreno;73;Man;Norge;Helsidereklam;Husbil-Lyx;5.82;1
+1436;Sara Marsh;65;Kvinna;Norge;Sidebarreklam;Husbil-Familj;6.91;1
+1437;Gregory Chase;44;Kvinna;Sverige;Helsidereklam;Husbil-Sport;6.13;1
+1438;Blake Thompson;39;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;3.43;1
+1439;Michael Leach;21;Man;Sverige;Sidebarreklam;Husbil-Lyx;6.9;1
+1440;Abigail Haynes;43;Man;Sverige;Helsidereklam;Husbil-Lyx;4;3
+1441;Tara Frazier;75;Man;Sverige;Sidebarreklam;Husbil-Budget;6.9;1
+1442;Sandra Scott;78;Kvinna;Danmark;Helsidereklam;Husbil-Budget;3.92;2
+1443;Christopher Peters;49;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;3.44;1
+1444;Sarah Davis;73;Man;Norge;Helsidereklam;Husbil-Sport;3.97;2
+1445;Eileen Roberts;80;Kvinna;Norge;Helsidereklam;Husbil-Familj;5.52;1
+1446;Robin Jackson;52;Man;Norge;Sidebarreklam;Husbil-Familj;6.9;3
+1447;Douglas Joseph;30;Kvinna;Danmark;Helsidereklam;Husbil-Familj;6.37;0
+1448;Thomas Goodwin;62;Man;Sverige;Sidebarreklam;Husbil-Sport;6.9;1
+1449;Rebecca Hart;61;Man;Norge;Helsidereklam;Husbil-Familj;6.54;1
+1450;Danielle White;34;Man;Sverige;Popuppreklam med musik;Husbil-Budget;3.44;2
+1451;Francisco Ruiz;63;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;3.44;0
+1452;Katrina Bailey;33;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;3.44;1
+1453;David Benson;20;Man;Sverige;Helsidereklam;Husbil-Familj;6.69;1
+1454;Nicole Mccarthy;41;Man;Sverige;Sidebarreklam;Husbil-Sport;6.89;0
+1455;Terry Miller;72;Man;Norge;Helsidereklam;Husbil-Familj;3.9;2
+1456;Zoe Owens;47;Man;Sverige;Popuppreklam med musik;Husbil-Budget;3.44;2
+1457;Peter Phillips;28;Man;Danmark;Helsidereklam;Husbil-Sport;4.47;1
+1458;Bradley Robinson;35;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;6.88;0
+1459;David Mason;36;Man;Sverige;Helsidereklam;Husbil-Familj;5.65;2
+1460;Drew Cervantes;72;Kvinna;Sverige;Popuppreklam med musik;Husbil-Budget;3.45;2
+1461;Daniel Brown DVM;29;Kvinna;Norge;Helsidereklam;Husbil-Sport;5.17;2
+1462;Abigail Dean;50;Man;Sverige;Helsidereklam;Husbil-Sport;6.47;1
+1463;Matthew Mendoza;29;Man;Norge;Helsidereklam;Husbil-Budget;3.8;1
+1464;Angela Ryan;34;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.46;1
+1465;Robert Perez;36;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;6.88;2
+1466;Gina Sandoval;67;Kvinna;Danmark;Helsidereklam;Husbil-Budget;4.53;0
+1467;Christopher Hodges MD;60;Kvinna;Norge;Helsidereklam;Husbil-Lyx;5.6;3
+1468;Manuel Palmer;56;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.47;0
+1469;Caroline Jimenez;30;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;3.47;2
+1470;Robert Jones;45;Man;Sverige;Helsidereklam;Husbil-Sport;6.65;1
+1471;Edward Higgins;30;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;3.48;1
+1472;Suzanne Johnson;32;Man;Sverige;Sidebarreklam;Husbil-Sport;6.88;1
+1473;Bridget Suarez;42;Man;Sverige;Helsidereklam;Husbil-Sport;3.51;0
+1474;Deborah Stewart;43;Man;Norge;Popuppreklam med musik;Husbil-Sport;3.48;1
+1475;Christina Hartman;74;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;3.48;1
+1476;Samantha Franco;21;Man;England;Sidebarreklam;Husbil-Sport;6.87;1
+1477;Steven Jones;70;Man;Norge;Helsidereklam;Husbil-Familj;3.8;2
+1478;Ralph Mccullough;41;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;3.49;3
+1479;Robert Young;27;Man;Sverige;Helsidereklam;Husbil-Sport;4.02;0
+1480;Billy Bryant;39;Man;Sverige;Helsidereklam;Husbil-Budget;5.38;3
+1481;Mr. Benjamin Pope;70;Kvinna;Danmark;Helsidereklam;Husbil-Budget;4.39;2
+1482;Scott Stone;33;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;3.51;0
+1483;Christopher Robinson;51;Man;Norge;Sidebarreklam;Husbil-Budget;6.87;0
+1484;Deanna Baker;50;Man;England;Popuppreklam med musik;Husbil-Budget;3.52;2
+1485;Kevin Jackson;69;Man;Norge;Popuppreklam med musik;Husbil-Sport;3.52;1
+1486;Christina Moss;68;Man;Sverige;Sidebarreklam;Husbil-Budget;6.86;1
+1487;Debra Gamble;58;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;3.54;1
+1488;Linda Collins;19;Man;Norge;Sidebarreklam;Husbil-Familj;6.85;1
+1489;Kaitlyn Li;20;Man;Tyskland;Helsidereklam;Husbil-Lyx;4.78;3
+1490;Walter Miller;31;Man;Danmark;Popuppreklam med musik;Husbil-Budget;3.54;1
+1491;Jordan Hamilton;42;Kvinna;Tyskland;Popuppreklam med musik;Husbil-Familj;3.54;1
+1492;Veronica Hartman;23;Man;Danmark;Helsidereklam;Husbil-Familj;5.08;0
+1493;Julie Carter;78;Man;Norge;Sidebarreklam;Husbil-Sport;6.85;1
+1494;Ashley Short;35;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;6.83;0
+1495;Jennifer Smith;69;Man;Sverige;Helsidereklam;Husbil-Familj;4.99;1
+1496;Peter Cameron;31;Man;Sverige;Helsidereklam;Husbil-Sport;4.72;2
+1497;Samantha Brown;63;Man;Sverige;Popuppreklam med musik;Husbil-Budget;3.55;1
+1498;Jose Avery;52;Man;Danmark;Sidebarreklam;Husbil-Sport;6.82;4
+1499;Danielle Smith;63;Kvinna;Tyskland;Sidebarreklam;Husbil-Budget;6.81;0
+1500;Kevin Rivera;19;Man;Sverige;Helsidereklam;Husbil-Familj;5.53;2
+1501;Jennifer Kelly;27;Man;Sverige;Helsidereklam;Husbil-Familj;6.72;1
+1502;Joseph Patterson;27;Man;Tyskland;Popuppreklam med musik;Husbil-Sport;3.55;1
+1503;George Ross;44;Man;Norge;Helsidereklam;Husbil-Sport;4.47;1
+1504;David Terrell;41;Man;Sverige;Sidebarreklam;Husbil-Familj;6.8;2
+1505;Amy Harmon;70;Man;England;Helsidereklam;Husbil-Budget;4.06;1
+1506;Robert Johnson;68;Kvinna;Norge;Helsidereklam;Husbil-Sport;6.05;1
+1507;Kaitlyn Newton;79;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;3.56;1
+1508;Jesus Martinez;35;Man;Norge;Sidebarreklam;Husbil-Budget;6.8;2
+1509;Andrew Thomas;41;Man;England;Popuppreklam med musik;Husbil-Lyx;3.56;1
+1510;Diane Maxwell;39;Kvinna;Danmark;Helsidereklam;Husbil-Sport;3.86;1
+1511;Angel Sanchez;69;Man;Norge;Helsidereklam;Husbil-Lyx;5.07;0
+1512;Barbara Jackson;54;Man;Norge;Helsidereklam;Husbil-Familj;5.46;2
+1513;Benjamin Tucker;54;Kvinna;Sverige;Helsidereklam;Husbil-Budget;5.87;1
+1514;Michael Davis;79;Man;Danmark;Popuppreklam med musik;Husbil-Lyx;3.56;0
+1515;Charles Lewis;59;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;6.79;0
+1516;Dr. Lindsey Austin;47;Kvinna;Danmark;Helsidereklam;Husbil-Sport;3.98;2
+1517;Susan Perez;61;Man;Sverige;Sidebarreklam;Husbil-Lyx;6.78;1
+1518;Pamela Martinez;22;Man;Norge;Popuppreklam med musik;Husbil-Lyx;3.57;0
+1519;Amy Lowery;34;Man;Sverige;Helsidereklam;Husbil-Lyx;5.54;2
+1520;Deborah Larsen;53;Man;Tyskland;Helsidereklam;Husbil-Budget;5.75;0
+1521;David Davis;39;Man;Sverige;Sidebarreklam;Husbil-Sport;6.77;2
+1522;Mary Larson;36;Man;Norge;Helsidereklam;Husbil-Lyx;5.7;3
+1523;Ronald Whitaker;24;Man;Norge;Popuppreklam med musik;Husbil-Sport;3.58;1
+1524;Darren Wood;22;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;3.58;2
+1525;Suzanne Hall;53;Kvinna;Norge;Sidebarreklam;Husbil-Sport;6.76;3
+1526;Michelle Riley;54;Man;Sverige;Sidebarreklam;Husbil-Familj;6.76;2
+1527;Raymond Knight;47;Kvinna;Norge;Sidebarreklam;Husbil-Lyx;6.74;3
+1528;Alexis Johnson;29;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;3.59;0
+1529;Matthew Carter;78;Man;Sverige;Sidebarreklam;Husbil-Lyx;6.74;0
+1530;Brenda Williams;74;Kvinna;Danmark;Helsidereklam;Husbil-Sport;5.84;0
+1531;Kimberly Harrell;28;Kvinna;Norge;Helsidereklam;Husbil-Lyx;4.06;1
+1532;Steven Jones;40;Man;Sverige;Helsidereklam;Husbil-Sport;6.01;2
+1533;Kayla King;37;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.59;1
+1534;Justin Wagner;18;Man;Sverige;Helsidereklam;Husbil-Budget;5.85;1
+1535;Michael Dixon;39;Man;Norge;Sidebarreklam;Husbil-Lyx;6.72;1
+1536;Hannah Reyes;58;Man;Norge;Helsidereklam;Husbil-Sport;4.42;3
+1537;Kathleen Nichols;72;Man;Sverige;Sidebarreklam;Husbil-Familj;6.71;1
+1538;Dennis Harvey;33;Man;Norge;Sidebarreklam;Husbil-Lyx;6.7;0
+1539;Marcus Garcia;43;Man;Norge;Sidebarreklam;Husbil-Budget;6.7;3
+1540;Jaclyn Garrett;57;Man;Sverige;Helsidereklam;Husbil-Budget;4.26;1
+1541;Michelle Stephens;49;Man;Norge;Sidebarreklam;Husbil-Familj;6.69;1
+1542;Jessica Jones;50;Kvinna;Norge;Sidebarreklam;Husbil-Sport;6.68;1
+1543;Michelle Kelly;48;Man;England;Helsidereklam;Husbil-Lyx;6.36;1
+1544;Michael Santiago;37;Man;Sverige;Helsidereklam;Husbil-Budget;5.4;1
+1545;Justin Smith Jr.;73;Kvinna;Norge;Sidebarreklam;Husbil-Sport;6.68;1
+1546;Robin Cline;30;Man;Norge;Sidebarreklam;Husbil-Sport;6.68;1
+1547;Joshua Ramsey;68;Kvinna;Norge;Sidebarreklam;Husbil-Lyx;6.66;0
+1548;Daniel Valencia;33;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;6.66;2
+1549;Devin Bridges;79;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.59;1
+1550;David Stone;71;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.59;3
+1551;Lisa Nguyen;48;Kvinna;England;Popuppreklam med musik;Husbil-Sport;3.6;0
+1552;Jordan Jackson;63;Man;Norge;Sidebarreklam;Husbil-Sport;6.65;2
+1553;John Escobar;22;Man;Norge;Helsidereklam;Husbil-Lyx;6.28;3
+1554;Daniel Rodriguez;67;Kvinna;Norge;Sidebarreklam;Husbil-Budget;6.65;1
+1555;April Stevens;66;Man;England;Popuppreklam med musik;Husbil-Familj;3.61;1
+1556;William Townsend;64;Man;Sverige;Sidebarreklam;Husbil-Familj;6.65;1
+1557;Morgan Long;41;Man;Norge;Sidebarreklam;Husbil-Lyx;6.65;2
+1558;Jennifer Christensen;77;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;3.61;1
+1559;Tina Alvarado;49;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.61;0
+1560;Jasmine Carr;59;Man;Norge;Popuppreklam med musik;Husbil-Sport;3.61;1
+1561;Alisha Wilson;25;Man;Norge;Helsidereklam;Husbil-Lyx;6.28;2
+1562;Janet Houston;74;Man;Danmark;Helsidereklam;Husbil-Budget;3.93;0
+1563;Eugene Hudson;36;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.62;0
+1564;Bailey Norton;79;Man;Tyskland;Sidebarreklam;Husbil-Familj;6.63;0
+1565;Michael Ortiz;62;Kvinna;Tyskland;Sidebarreklam;Husbil-Sport;6.63;0
+1566;Kevin Bruce;24;Man;Danmark;Helsidereklam;Husbil-Familj;5.78;1
+1567;Carla Hensley;34;Kvinna;England;Helsidereklam;Husbil-Familj;5.8;1
+1568;David Jackson;53;Man;Sverige;Helsidereklam;Husbil-Budget;5.98;1
+1569;Patricia Lee;20;Man;Danmark;Sidebarreklam;Husbil-Sport;6.6;0
+1570;Kelly Smith;63;Man;Norge;Popuppreklam med musik;Husbil-Lyx;3.63;2
+1571;Peter Guerrero;72;Kvinna;Sverige;Popuppreklam med musik;Husbil-Budget;3.64;1
+1572;Andrew Nixon;27;Man;Tyskland;Sidebarreklam;Husbil-Budget;6.58;1
+1573;Jimmy Francis;71;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;5.6;0
+1574;Tyrone Taylor;74;Man;Sverige;Helsidereklam;Husbil-Sport;4.68;3
+1575;Dr. Stacy Williams;77;Man;Norge;Popuppreklam med musik;Husbil-Budget;3.65;1
+1576;Joshua Reynolds;27;Man;Tyskland;Sidebarreklam;Husbil-Budget;6.58;1
+1577;Michael Patterson;25;Kvinna;Norge;Popuppreklam med musik;Husbil-Budget;3.65;1
+1578;Adam Martinez;29;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;3.65;1
+1579;Deborah Martinez;45;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;6.01;2
+1580;Christopher Hall;20;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;6.58;1
+1581;Martin Mays;33;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.66;1
+1582;Cynthia Roberts;77;Man;Sverige;Sidebarreklam;Husbil-Lyx;6.58;1
+1583;Rhonda Holmes;41;Kvinna;Tyskland;Sidebarreklam;Husbil-Familj;6.57;1
+1584;Michael Paul;32;Kvinna;Sverige;Helsidereklam;Husbil-Familj;4.24;0
+1585;Shelly Edwards;30;Man;Sverige;Sidebarreklam;Husbil-Sport;6.56;2
+1586;Tony Williams;36;Kvinna;Sverige;Popuppreklam med musik;Husbil-Familj;3.67;0
+1587;Courtney Wheeler;55;Man;Sverige;Helsidereklam;Husbil-Familj;5.2;1
+1588;Alicia Brown MD;41;Man;Norge;Helsidereklam;Husbil-Budget;3.97;3
+1589;Tracey Wilcox;56;Man;Norge;Helsidereklam;Husbil-Lyx;5.43;1
+1590;Karen Jackson;32;Kvinna;Norge;Popuppreklam med musik;Husbil-Sport;3.68;0
+1591;Susan Soto;23;Kvinna;Danmark;Helsidereklam;Husbil-Sport;4.63;4
+1592;John Archer;35;Man;Danmark;Sidebarreklam;Husbil-Budget;6.55;1
+1593;Diane Shannon;59;Kvinna;Tyskland;Popuppreklam med musik;Husbil-Sport;3.69;2
+1594;Katherine Potter;40;Kvinna;Sverige;Helsidereklam;Husbil-Budget;4.44;1
+1595;Monica Lawrence;19;Man;Norge;Popuppreklam med musik;Husbil-Lyx;3.7;1
+1596;Michelle Flores;49;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;6.54;1
+1597;Christopher Frye;67;Kvinna;Norge;Popuppreklam med musik;Husbil-Sport;3.72;2
+1598;Christian Lin;39;Man;Tyskland;Sidebarreklam;Husbil-Lyx;6.52;0
+1599;Dustin Nguyen;24;Man;Norge;Sidebarreklam;Husbil-Budget;6.51;1
+1600;Shannon Hardy;24;Man;Sverige;Popuppreklam med musik;Husbil-Budget;3.73;1
+1601;James Phillips;40;Man;Sverige;Sidebarreklam;Husbil-Familj;6.47;0
+1602;Michael Gilbert;19;Man;Tyskland;Popuppreklam med musik;Husbil-Familj;3.74;0
+1603;Amanda Johnston;53;Man;Norge;Sidebarreklam;Husbil-Budget;6.45;0
+1604;Jeffery Kennedy;57;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;6.45;0
+1605;Kim Nguyen;63;Kvinna;Norge;Sidebarreklam;Husbil-Budget;6.44;0
+1606;Ronnie Frederick;79;Kvinna;Danmark;Helsidereklam;Husbil-Sport;3.96;0
+1607;Michael Thornton;56;Man;Norge;Sidebarreklam;Husbil-Sport;6.44;1
+1608;Heather Ross;44;Man;Norge;Sidebarreklam;Husbil-Familj;6.44;2
+1609;Bryan Lee;28;Man;Norge;Popuppreklam med musik;Husbil-Budget;3.75;1
+1610;Elizabeth Livingston;23;Man;Sverige;Sidebarreklam;Husbil-Lyx;6.43;2
+1611;Jason Carter;61;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;6.31;2
+1612;Jose Torres;25;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.76;1
+1613;Michael Vazquez;45;Man;Norge;Helsidereklam;Husbil-Lyx;6.23;0
+1614;Erika Garner;40;Man;Danmark;Helsidereklam;Husbil-Familj;4.65;3
+1615;Renee Strickland;26;Man;Norge;Popuppreklam med musik;Husbil-Budget;3.77;1
+1616;Matthew Patel;31;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;6.43;1
+1617;Jose Moss;27;Man;Norge;Popuppreklam med musik;Husbil-Familj;3.77;0
+1618;Vicki Roberts MD;61;Man;Sverige;Sidebarreklam;Husbil-Budget;6.43;1
+1619;Jamie Gutierrez;74;Man;Norge;Popuppreklam med musik;Husbil-Sport;3.78;2
+1620;Virginia Ruiz;22;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;4.61;1
+1621;Christina Gutierrez;35;Man;Norge;Helsidereklam;Husbil-Familj;5.05;3
+1622;Bonnie Little;27;Man;England;Popuppreklam med musik;Husbil-Familj;3.79;3
+1623;Mr. Shane Miller;31;Kvinna;Danmark;Helsidereklam;Husbil-Familj;4.53;2
+1624;David Perez;27;Kvinna;Sverige;Sidebarreklam;Husbil-Sport;6.42;0
+1625;Kaylee Collins;52;Man;Sverige;Popuppreklam med musik;Husbil-Budget;3.79;1
+1626;Danielle Flores;35;Man;Sverige;Sidebarreklam;Husbil-Sport;6.42;2
+1627;Jeffrey Brown;38;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.79;2
+1628;Manuel Jenkins;25;Man;Tyskland;Sidebarreklam;Husbil-Sport;6.41;5
+1629;Erika Williams;66;Man;Norge;Popuppreklam med musik;Husbil-Sport;3.8;1
+1630;Diana Gillespie;47;Man;Tyskland;Sidebarreklam;Husbil-Budget;6.4;1
+1631;Ashley Chan;44;Kvinna;Norge;Sidebarreklam;Husbil-Budget;6.4;1
+1632;Jonathan Cook;64;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.8;1
+1633;Mary Bell DDS;66;Man;Norge;Sidebarreklam;Husbil-Sport;6.4;1
+1634;Pamela Horton;48;Man;Norge;Popuppreklam med musik;Husbil-Budget;3.81;0
+1635;Stephen Delgado;40;Man;Sverige;Helsidereklam;Husbil-Sport;4.58;2
+1636;Jamie Cook;38;Kvinna;Norge;Sidebarreklam;Husbil-Lyx;6.39;2
+1637;Samantha Stewart;79;Kvinna;Sverige;Popuppreklam med musik;Husbil-Familj;3.82;2
+1638;Brittany Parks;67;Man;Sverige;Sidebarreklam;Husbil-Budget;6.39;0
+1639;Denise Wells;36;Man;Norge;Helsidereklam;Husbil-Lyx;5.56;2
+1640;Richard Stewart;48;Man;Sverige;Helsidereklam;Husbil-Lyx;5.98;1
+1641;Jonathan Watson;56;Kvinna;Danmark;Helsidereklam;Husbil-Budget;4.02;1
+1642;Jennifer Walker;78;Kvinna;Norge;Popuppreklam med musik;Husbil-Sport;3.83;1
+1643;Kendra Wilson;27;Man;Sverige;Helsidereklam;Husbil-Budget;4.11;0
+1644;Debra Torres;46;Man;Danmark;Popuppreklam med musik;Husbil-Lyx;3.83;0
+1645;Steven Hunt;26;Man;Norge;Sidebarreklam;Husbil-Lyx;6.39;1
+1646;Holly Gray;21;Man;Norge;Popuppreklam med musik;Husbil-Sport;3.83;2
+1647;Nathan Lewis;39;Man;Norge;Helsidereklam;Husbil-Sport;4.07;0
+1648;Jessica Thomas MD;61;Man;England;Sidebarreklam;Husbil-Lyx;6.37;0
+1649;Gary Chavez;23;Man;Tyskland;Helsidereklam;Husbil-Familj;4.02;1
+1650;Gabriel Aguilar;41;Man;Danmark;Popuppreklam med musik;Husbil-Budget;3.84;1
+1651;William Palmer;36;Man;England;Helsidereklam;Husbil-Familj;5.83;4
+1652;Steven Nolan;57;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;3.84;1
+1653;Jessica Cox;41;Man;Danmark;Popuppreklam med musik;Husbil-Sport;3.85;2
+1654;Matthew Kaufman;51;Man;England;Helsidereklam;Husbil-Sport;5.5;0
+1655;Larry Contreras;32;Kvinna;Norge;Sidebarreklam;Husbil-Sport;6.37;0
+1656;Kelly Tran;64;Man;Sverige;Helsidereklam;Husbil-Familj;6.2;1
+1657;Kristen Orozco;65;Man;Sverige;Helsidereklam;Husbil-Budget;4.72;2
+1658;Eric Wilson;49;Man;Sverige;Helsidereklam;Husbil-Familj;4.17;1
+1659;Levi Cisneros;54;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;3.86;1
+1660;Jennifer Dunn;24;Kvinna;Danmark;Helsidereklam;Husbil-Budget;4.57;1
+1661;Shelby Taylor;41;Man;Norge;Sidebarreklam;Husbil-Budget;6.35;2
+1662;Laura Green;46;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;3.87;1
+1663;Aaron Garza;64;Man;Sverige;Popuppreklam med musik;Husbil-Budget;3.88;2
+1664;Savannah Rice;25;Man;Norge;Sidebarreklam;Husbil-Budget;6.34;0
+1665;Sarah Keller;64;Kvinna;Norge;Sidebarreklam;Husbil-Sport;6.34;1
+1666;Melinda Diaz;44;Kvinna;Norge;Helsidereklam;Husbil-Lyx;6.23;1
+1667;Kimberly Gordon;52;Man;Sverige;Helsidereklam;Husbil-Budget;6;1
+1668;Dustin Flores;69;Kvinna;Norge;Popuppreklam med musik;Husbil-Lyx;3.89;3
+1669;Chase Simmons;32;Man;Norge;Popuppreklam med musik;Husbil-Lyx;3.89;2
+1670;Scott Middleton Jr.;75;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;3.97;1
+1671;David Palmer;68;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.89;3
+1672;Sarah Miller;57;Kvinna;England;Popuppreklam med musik;Husbil-Sport;3.89;0
+1673;Kristen Jacobs;24;Man;Danmark;Sidebarreklam;Husbil-Budget;6.32;5
+1674;Thomas Greer;61;Man;Danmark;Sidebarreklam;Husbil-Familj;6.32;1
+1675;Jenny White;29;Man;Norge;Sidebarreklam;Husbil-Sport;6.32;1
+1676;Andrew Baker;75;Kvinna;Norge;Sidebarreklam;Husbil-Familj;6.31;1
+1677;Victoria Peterson;63;Man;Tyskland;Sidebarreklam;Husbil-Lyx;6.31;2
+1678;Douglas Wallace;77;Man;Sverige;Helsidereklam;Husbil-Sport;5.75;0
+1679;Brandon Choi;32;Man;Sverige;Sidebarreklam;Husbil-Sport;6.29;2
+1680;Richard Mcgee;47;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;6.29;0
+1681;Susan Jacobs;72;Man;Norge;Sidebarreklam;Husbil-Familj;6.29;1
+1682;Tracy Khan;44;Man;Danmark;Popuppreklam med musik;Husbil-Sport;3.9;1
+1683;Jeffery Lee;35;Man;Tyskland;Helsidereklam;Husbil-Budget;5.57;1
+1684;Elizabeth Smith;19;Man;Norge;Popuppreklam med musik;Husbil-Budget;3.9;1
+1685;Corey Carey;67;Man;Sverige;Sidebarreklam;Husbil-Familj;6.27;1
+1686;Daisy Nguyen;79;Man;Norge;Sidebarreklam;Husbil-Budget;6.27;3
+1687;Stephen Lee;51;Man;Sverige;Popuppreklam med musik;Husbil-Budget;3.9;0
+1688;Anna Roberts;79;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;3.91;1
+1689;Rebecca Fernandez;18;Man;Sverige;Popuppreklam med musik;Husbil-Budget;3.92;2
+1690;Hannah Strong;28;Kvinna;Danmark;Helsidereklam;Husbil-Sport;4.05;0
+1691;Elizabeth Johnston;62;Man;Sverige;Popuppreklam med musik;Husbil-Familj;3.92;0
+1692;Steven Perez;53;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.93;2
+1693;John Crosby;47;Man;Sverige;Helsidereklam;Husbil-Budget;5.13;0
+1694;Pamela Boyer;43;Man;Norge;Helsidereklam;Husbil-Lyx;5.15;2
+1695;Dennis Hunter;48;Man;Sverige;Helsidereklam;Husbil-Familj;4.88;1
+1696;Rebecca Rivera;27;Man;Norge;Sidebarreklam;Husbil-Lyx;6.27;1
+1697;Susan Watkins;20;Man;Norge;Helsidereklam;Husbil-Familj;5.51;1
+1698;Tina Ramos;27;Man;Danmark;Popuppreklam med musik;Husbil-Budget;3.96;0
+1699;Jeffrey Everett;57;Man;Sverige;Sidebarreklam;Husbil-Lyx;6.23;2
+1700;Joy Stanley;67;Man;Danmark;Sidebarreklam;Husbil-Sport;6.23;4
+1701;William Prince;63;Man;Norge;Sidebarreklam;Husbil-Lyx;6.22;1
+1702;Mandy Pennington;67;Man;England;Sidebarreklam;Husbil-Lyx;6.22;0
+1703;Raven Davis;41;Man;Norge;Sidebarreklam;Husbil-Familj;6.21;2
+1704;Darrell White;62;Kvinna;Sverige;Helsidereklam;Husbil-Sport;5.36;1
+1705;Ruben Duran;48;Man;Norge;Popuppreklam med musik;Husbil-Budget;3.96;1
+1706;Allen Archer;32;Kvinna;Norge;Sidebarreklam;Husbil-Sport;6.2;2
+1707;Eddie Flores;37;Man;Sverige;Helsidereklam;Husbil-Familj;4.8;2
+1708;Jason Cobb;38;Man;Sverige;Helsidereklam;Husbil-Familj;4.5;1
+1709;Jennifer House;55;Man;Sverige;Sidebarreklam;Husbil-Lyx;6.2;1
+1710;Jeffrey Rosario;32;Man;Sverige;Sidebarreklam;Husbil-Familj;6.15;1
+1711;Vanessa Kelly;23;Man;Sverige;Sidebarreklam;Husbil-Familj;6.15;1
+1712;Lauren Smith;75;Man;Tyskland;Helsidereklam;Husbil-Familj;4.37;0
+1713;Nicole Cervantes;22;Man;Norge;Popuppreklam med musik;Husbil-Lyx;3.97;1
+1714;Kelsey Adams;70;Man;Danmark;Popuppreklam med musik;Husbil-Budget;3.97;3
+1715;John Bowman;34;Man;Sverige;Popuppreklam med musik;Husbil-Budget;3.97;1
+1716;Andrea Clark;21;Man;Sverige;Sidebarreklam;Husbil-Lyx;6.14;0
+1717;James Harris;25;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;3.97;1
+1718;Douglas Petty;47;Man;Danmark;Sidebarreklam;Husbil-Sport;6.13;2
+1719;Rebecca Holt;47;Kvinna;Tyskland;Popuppreklam med musik;Husbil-Lyx;3.98;0
+1720;Kenneth Medina MD;25;Man;Norge;Helsidereklam;Husbil-Budget;5.26;2
+1721;Jose Potter;70;Kvinna;England;Popuppreklam med musik;Husbil-Sport;3.99;1
+1722;Daniel Brown;72;Man;Danmark;Sidebarreklam;Husbil-Lyx;6.13;1
+1723;Brenda Mcintyre;68;Man;Norge;Helsidereklam;Husbil-Lyx;5.96;1
+1724;Alexandria Contreras;26;Man;Sverige;Popuppreklam med musik;Husbil-Sport;3.99;2
+1725;Mr. Greg Lopez;38;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;4.74;0
+1726;Jason Walker;41;Man;Norge;Popuppreklam med musik;Husbil-Familj;3.99;1
+1727;Jaime Zuniga;63;Man;Norge;Sidebarreklam;Husbil-Budget;6.13;3
+1728;Jennifer Conley DVM;74;Man;Norge;Sidebarreklam;Husbil-Sport;6.11;1
+1729;Dawn York;23;Kvinna;Norge;Sidebarreklam;Husbil-Budget;6.11;1
+1730;Alex Silva;60;Man;Sverige;Popuppreklam med musik;Husbil-Sport;4;0
+1731;Julie Mitchell;56;Kvinna;Sverige;Helsidereklam;Husbil-Sport;5.69;0
+1732;David Williams;53;Kvinna;Sverige;Sidebarreklam;Husbil-Lyx;6.11;1
+1733;Ms. Andrea Richard;76;Man;Norge;Popuppreklam med musik;Husbil-Sport;4.02;0
+1734;Jasmine Harrison;25;Kvinna;Danmark;Helsidereklam;Husbil-Sport;5.38;1
+1735;Maria Smith;55;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;4.03;1
+1736;Erin Cummings;31;Man;Tyskland;Helsidereklam;Husbil-Sport;4.88;0
+1737;Lisa Moreno;39;Kvinna;Sverige;Helsidereklam;Husbil-Familj;5.8;1
+1738;Noah Frost;20;Kvinna;Norge;Helsidereklam;Husbil-Familj;5.59;0
+1739;Brian Carter;54;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;4.94;1
+1740;Yolanda Castro;59;Man;Norge;Popuppreklam med musik;Husbil-Lyx;4.05;0
+1741;Tom Barnes;50;Man;Norge;Popuppreklam med musik;Husbil-Budget;4.05;1
+1742;Thomas Morgan;19;Man;Sverige;Popuppreklam med musik;Husbil-Familj;4.06;0
+1743;Sarah Calderon;22;Kvinna;Norge;Helsidereklam;Husbil-Sport;5.09;1
+1744;Katie Shields;47;Kvinna;Norge;Popuppreklam med musik;Husbil-Sport;4.07;1
+1745;Bradley Jones;36;Man;Sverige;Sidebarreklam;Husbil-Familj;6.09;1
+1746;Steven Ponce;33;Man;Sverige;Sidebarreklam;Husbil-Budget;6.09;2
+1747;Kyle Camacho;28;Man;Sverige;Sidebarreklam;Husbil-Budget;6.08;2
+1748;Elizabeth Hernandez;73;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;4.1;0
+1749;Paul Morgan;66;Man;Sverige;Helsidereklam;Husbil-Lyx;4.73;1
+1750;Angela Curtis;36;Kvinna;Danmark;Helsidereklam;Husbil-Familj;4.75;3
+1751;Cody Lane;53;Man;Sverige;Popuppreklam med musik;Husbil-Sport;4.1;0
+1752;Janet Hudson;47;Kvinna;Norge;Sidebarreklam;Husbil-Budget;6.07;1
+1753;Mrs. Amanda Dodson;43;Man;Sverige;Helsidereklam;Husbil-Familj;4.74;1
+1754;Crystal Lane;36;Kvinna;Norge;Sidebarreklam;Husbil-Budget;6.07;1
+1755;Hannah Coleman;38;Kvinna;Norge;Helsidereklam;Husbil-Familj;4.96;0
+1756;Nicholas Mercer;45;Man;Norge;Sidebarreklam;Husbil-Familj;6.07;1
+1757;Lori Bright;49;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;4.11;0
+1758;Stephanie Cooper;55;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;4.72;2
+1759;Sean Olson;75;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;4.11;2
+1760;Jacqueline Anderson;58;Man;Norge;Popuppreklam med musik;Husbil-Lyx;4.12;0
+1761;Leah Fernandez;76;Man;Sverige;Helsidereklam;Husbil-Budget;5.6;3
+1762;Kathryn Wright;30;Kvinna;Norge;Helsidereklam;Husbil-Familj;4.26;1
+1763;Megan Fuller;18;Man;Sverige;Sidebarreklam;Husbil-Familj;6.07;1
+1764;Deanna Obrien PhD;46;Kvinna;Danmark;Helsidereklam;Husbil-Budget;5.35;0
+1765;Patrick Smith;53;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;5.07;2
+1766;Tanner Keith;65;Man;Sverige;Helsidereklam;Husbil-Lyx;6.06;2
+1767;Joseph Gould;30;Man;Norge;Sidebarreklam;Husbil-Familj;6.07;1
+1768;Andrea House;76;Man;Sverige;Sidebarreklam;Husbil-Budget;6.04;2
+1769;Jackie Walters;75;Man;Sverige;Sidebarreklam;Husbil-Budget;6.04;2
+1770;Laura Blackwell;68;Man;Tyskland;Popuppreklam med musik;Husbil-Familj;4.12;0
+1771;Jamie Pearson;78;Man;Sverige;Sidebarreklam;Husbil-Lyx;6.03;1
+1772;Laura Archer;36;Kvinna;Danmark;Helsidereklam;Husbil-Budget;5.43;0
+1773;Martin Lee;64;Man;Norge;Helsidereklam;Husbil-Sport;5.32;1
+1774;Keith Leblanc;26;Man;Tyskland;Helsidereklam;Husbil-Lyx;5.84;2
+1775;Jacqueline Hoover;58;Man;Sverige;Popuppreklam med musik;Husbil-Budget;4.12;1
+1776;Chris Shepherd;55;Man;Norge;Popuppreklam med musik;Husbil-Budget;4.13;2
+1777;Autumn Smith;39;Man;Norge;Popuppreklam med musik;Husbil-Familj;4.14;0
+1778;Timothy Roberts;74;Kvinna;Norge;Helsidereklam;Husbil-Lyx;5.66;0
+1779;Christine Mcgee;21;Kvinna;England;Helsidereklam;Husbil-Familj;5.99;0
+1780;Karen Bradford;43;Kvinna;Norge;Popuppreklam med musik;Husbil-Budget;4.15;1
+1781;Jennifer Hanson;66;Man;England;Helsidereklam;Husbil-Lyx;5.22;1
+1782;Andrew Silva;24;Man;Sverige;Sidebarreklam;Husbil-Familj;6.03;2
+1783;Joshua Jackson;58;Man;Tyskland;Helsidereklam;Husbil-Lyx;4.34;1
+1784;Diane Gonzalez;38;Man;Sverige;Sidebarreklam;Husbil-Familj;6.03;1
+1785;Amy Rodriguez;69;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;6.02;2
+1786;Thomas Cunningham;45;Kvinna;Norge;Helsidereklam;Husbil-Budget;5.67;0
+1787;Kathleen Kelley;47;Man;Sverige;Sidebarreklam;Husbil-Sport;6.02;4
+1788;Erika Oneal;43;Man;Sverige;Sidebarreklam;Husbil-Familj;6.01;2
+1789;Kirk Collins;70;Man;Danmark;Sidebarreklam;Husbil-Budget;6;0
+1790;Jennifer Howell;69;Man;Sverige;Helsidereklam;Husbil-Budget;4.68;0
+1791;Richard White;60;Man;Norge;Helsidereklam;Husbil-Familj;5.93;1
+1792;David White;67;Man;Norge;Sidebarreklam;Husbil-Budget;5.99;1
+1793;Robert Rowland;50;Man;Sverige;Helsidereklam;Husbil-Lyx;5.95;1
+1794;Samantha Medina;22;Man;Norge;Popuppreklam med musik;Husbil-Budget;4.17;6
+1795;Michael Larson;71;Man;Norge;Sidebarreklam;Husbil-Sport;5.97;3
+1796;Thomas Patterson;63;Man;Norge;Helsidereklam;Husbil-Sport;4.17;2
+1797;Brett Navarro;46;Man;Danmark;Helsidereklam;Husbil-Familj;5.78;1
+1798;Dr. Jessica Griffith;38;Kvinna;Danmark;Helsidereklam;Husbil-Familj;5.19;1
+1799;David Barrera;56;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;5.97;2
+1800;Troy Berger;67;Man;Sverige;Popuppreklam med musik;Husbil-Sport;4.17;1
+1801;Julia Hayes;55;Man;Norge;Helsidereklam;Husbil-Familj;4.51;2
+1802;Warren Williamson;60;Man;England;Popuppreklam med musik;Husbil-Lyx;4.18;0
+1803;Jessica Wright;22;Man;Norge;Helsidereklam;Husbil-Familj;5.29;1
+1804;Anthony Coleman;60;Man;Norge;Popuppreklam med musik;Husbil-Familj;4.18;1
+1805;Jennifer Mason;54;Man;England;Popuppreklam med musik;Husbil-Budget;4.18;1
+1806;Melissa Perez;19;Kvinna;Norge;Helsidereklam;Husbil-Lyx;5.05;0
+1807;Jason Green;32;Kvinna;Norge;Helsidereklam;Husbil-Familj;5.26;3
+1808;Sharon Lawson;67;Man;Norge;Helsidereklam;Husbil-Budget;4.93;1
+1809;Mark Rodriguez;47;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;4.67;2
+1810;Nicole Hodges;70;Kvinna;Danmark;Helsidereklam;Husbil-Sport;5.19;0
+1811;Mark Hopkins;45;Man;Sverige;Sidebarreklam;Husbil-Lyx;5.97;1
+1812;Mark Thomas;59;Man;Sverige;Sidebarreklam;Husbil-Familj;5.96;1
+1813;Jennifer Gonzalez;43;Kvinna;Norge;Popuppreklam med musik;Husbil-Sport;4.19;2
+1814;Lisa Davis;23;Man;Tyskland;Sidebarreklam;Husbil-Budget;5.94;1
+1815;Scott Parker;69;Man;Sverige;Popuppreklam med musik;Husbil-Budget;4.2;1
+1816;Kevin Gallegos;53;Man;Sverige;Popuppreklam med musik;Husbil-Familj;4.2;1
+1817;Gregory Figueroa;23;Man;Sverige;Helsidereklam;Husbil-Sport;4.27;3
+1818;Michael Sandoval;32;Man;Sverige;Popuppreklam med musik;Husbil-Sport;4.23;2
+1819;Andrew Miller;19;Kvinna;Norge;Sidebarreklam;Husbil-Budget;5.94;0
+1820;Christopher Turner;64;Man;Norge;Popuppreklam med musik;Husbil-Sport;4.24;0
+1821;Tracy Pitts;73;Man;Norge;Helsidereklam;Husbil-Familj;4.97;0
+1822;Nathan Beasley;54;Man;Sverige;Helsidereklam;Husbil-Familj;4.47;3
+1823;Rick Chapman;18;Man;Sverige;Helsidereklam;Husbil-Budget;4.82;1
+1824;Miguel Jordan;77;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;5.93;1
+1825;Juan Mueller;30;Man;Sverige;Sidebarreklam;Husbil-Sport;5.93;0
+1826;Ashley Ramirez;26;Man;Sverige;Sidebarreklam;Husbil-Lyx;5.9;2
+1827;Travis Bautista;22;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;4.24;1
+1828;Debbie West;41;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;4.29;1
+1829;Erik Cabrera;32;Man;Danmark;Sidebarreklam;Husbil-Familj;5.9;1
+1830;Cheyenne Davila;44;Man;Sverige;Helsidereklam;Husbil-Budget;5.78;1
+1831;Patricia Johnson;68;Kvinna;Norge;Sidebarreklam;Husbil-Sport;5.86;2
+1832;Kimberly Jones;55;Kvinna;Danmark;Helsidereklam;Husbil-Sport;5.65;0
+1833;Shannon Rubio;25;Man;Norge;Popuppreklam med musik;Husbil-Budget;4.3;1
+1834;James Andersen;62;Kvinna;England;Helsidereklam;Husbil-Sport;4.58;0
+1835;Courtney Olson;21;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;5.84;2
+1836;Anthony Morales;20;Man;Norge;Sidebarreklam;Husbil-Budget;5.82;2
+1837;John Reynolds;21;Kvinna;Norge;Sidebarreklam;Husbil-Sport;5.81;1
+1838;Seth Webster;50;Man;Norge;Popuppreklam med musik;Husbil-Budget;4.31;3
+1839;Emily Harris;60;Man;Sverige;Helsidereklam;Husbil-Sport;4.56;1
+1840;Terry Rubio;46;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;4.33;1
+1841;Justin Duncan;80;Kvinna;Sverige;Helsidereklam;Husbil-Budget;5.32;0
+1842;Michael Hall;40;Man;Sverige;Helsidereklam;Husbil-Budget;5.02;3
+1843;Christina Perry;67;Man;Norge;Helsidereklam;Husbil-Budget;5.35;0
+1844;Richard Dillon;24;Man;Sverige;Popuppreklam med musik;Husbil-Budget;4.33;1
+1845;David Jones;41;Man;Sverige;Helsidereklam;Husbil-Sport;5.61;1
+1846;Edward Chang;63;Man;Norge;Helsidereklam;Husbil-Budget;5.27;2
+1847;Miss Sharon Poole DVM;72;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;5.8;0
+1848;Tiffany Houston;31;Man;Danmark;Sidebarreklam;Husbil-Lyx;5.79;1
+1849;Alexis Hodge DDS;52;Man;Sverige;Helsidereklam;Husbil-Lyx;5.41;3
+1850;Robert Cannon;26;Kvinna;Norge;Helsidereklam;Husbil-Lyx;5.75;1
+1851;Julia Vance;35;Kvinna;England;Helsidereklam;Husbil-Familj;5.11;2
+1852;Jaime Gross;57;Man;England;Popuppreklam med musik;Husbil-Sport;4.34;1
+1853;James Kirby;78;Man;Sverige;Helsidereklam;Husbil-Budget;5.78;0
+1854;Pamela Hess;57;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;4.34;2
+1855;Jack Ross;67;Kvinna;Tyskland;Popuppreklam med musik;Husbil-Familj;4.34;2
+1856;Valerie Perez;73;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;5.79;1
+1857;Kristin Johnson;40;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;4.37;1
+1858;Amy Alvarez;23;Man;Tyskland;Helsidereklam;Husbil-Sport;5.77;3
+1859;Ronald Schneider;44;Kvinna;Norge;Helsidereklam;Husbil-Budget;4.49;4
+1860;Brian Carter;28;Man;Danmark;Sidebarreklam;Husbil-Familj;5.76;1
+1861;Kelly Griffin;59;Man;Norge;Helsidereklam;Husbil-Familj;4.53;2
+1862;Anthony Rogers;54;Man;Norge;Popuppreklam med musik;Husbil-Lyx;4.38;1
+1863;Samantha George;67;Man;Sverige;Sidebarreklam;Husbil-Budget;5.73;2
+1864;Victoria Gibson;48;Man;Sverige;Sidebarreklam;Husbil-Budget;5.72;0
+1865;Sherri Green;58;Kvinna;Norge;Sidebarreklam;Husbil-Lyx;5.72;2
+1866;William Moody;73;Man;England;Popuppreklam med musik;Husbil-Sport;4.38;0
+1867;Richard Cameron;54;Man;Sverige;Sidebarreklam;Husbil-Familj;5.71;1
+1868;David Nguyen;56;Man;Sverige;Helsidereklam;Husbil-Familj;5.19;2
+1869;Alyssa Ramos;54;Man;Sverige;Popuppreklam med musik;Husbil-Sport;4.39;1
+1870;Jacqueline Tate;79;Man;Norge;Helsidereklam;Husbil-Budget;5.25;1
+1871;Cameron Wright;44;Man;Sverige;Sidebarreklam;Husbil-Lyx;5.69;1
+1872;Ryan Brown;23;Kvinna;Danmark;Helsidereklam;Husbil-Familj;4.89;2
+1873;Sean Dudley;45;Man;Sverige;Sidebarreklam;Husbil-Lyx;5.69;0
+1874;James Edwards;75;Man;Sverige;Popuppreklam med musik;Husbil-Budget;4.39;1
+1875;Sean Haynes;47;Kvinna;Danmark;Popuppreklam med musik;Husbil-Sport;4.39;2
+1876;Jason Thomas;26;Man;Sverige;Sidebarreklam;Husbil-Budget;5.69;1
+1877;Gary Keller;52;Kvinna;Sverige;Sidebarreklam;Husbil-Familj;5.68;0
+1878;James Peters;52;Kvinna;Sverige;Popuppreklam med musik;Husbil-Familj;4.4;4
+1879;Molly Peterson;61;Kvinna;Danmark;Popuppreklam med musik;Husbil-Lyx;4.41;2
+1880;Stephanie Rodriguez;33;Kvinna;Danmark;Helsidereklam;Husbil-Budget;4.86;1
+1881;Mary Sparks;28;Man;Norge;Sidebarreklam;Husbil-Sport;5.66;3
+1882;Adam Williams;66;Kvinna;Norge;Sidebarreklam;Husbil-Sport;5.66;1
+1883;Jeff Macias;30;Man;Sverige;Sidebarreklam;Husbil-Lyx;5.65;1
+1884;James Santana;48;Man;Norge;Popuppreklam med musik;Husbil-Lyx;4.41;3
+1885;Abigail Johnson;23;Man;Sverige;Helsidereklam;Husbil-Budget;5.03;1
+1886;Angela Cervantes;72;Man;Sverige;Helsidereklam;Husbil-Budget;4.62;1
+1887;Charles Elliott;19;Man;Norge;Sidebarreklam;Husbil-Budget;5.64;2
+1888;Dennis Henry;80;Kvinna;Tyskland;Popuppreklam med musik;Husbil-Familj;4.42;0
+1889;Robert Hernandez;68;Man;Sverige;Popuppreklam med musik;Husbil-Sport;4.44;2
+1890;Sheryl Hernandez;73;Kvinna;Norge;Sidebarreklam;Husbil-Budget;5.62;0
+1891;Angela Avila;54;Man;Sverige;Popuppreklam med musik;Husbil-Familj;4.47;1
+1892;Anthony Marshall;77;Man;Sverige;Helsidereklam;Husbil-Lyx;5.46;4
+1893;Christine Carter;65;Man;Norge;Helsidereklam;Husbil-Sport;5.37;0
+1894;Adam Raymond;50;Man;Norge;Sidebarreklam;Husbil-Familj;5.59;1
+1895;Veronica Romero;78;Man;Sverige;Sidebarreklam;Husbil-Familj;5.59;0
+1896;Jennifer Ramos;61;Man;Danmark;Sidebarreklam;Husbil-Sport;5.56;1
+1897;Kim Meyer;41;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;5.55;0
+1898;Edward Taylor;69;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;4.47;1
+1899;Jeffrey Harrington;55;Man;Norge;Helsidereklam;Husbil-Lyx;4.53;1
+1900;Taylor Mclaughlin;54;Man;Sverige;Popuppreklam med musik;Husbil-Sport;4.51;0
+1901;Drew Robinson;22;Man;Sverige;Popuppreklam med musik;Husbil-Familj;4.52;2
+1902;Elaine Jones;31;Man;Sverige;Sidebarreklam;Husbil-Lyx;5.54;1
+1903;Matthew Ramos;19;Man;Sverige;Helsidereklam;Husbil-Sport;4.8;3
+1904;Timothy Robinson;40;Man;Sverige;Sidebarreklam;Husbil-Sport;5.54;2
+1905;Crystal Graham;65;Man;Sverige;Sidebarreklam;Husbil-Budget;5.54;0
+1906;Kim Hood;70;Kvinna;Sverige;Helsidereklam;Husbil-Budget;5.05;0
+1907;Julie Wright;73;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;4.77;1
+1908;Leslie Chavez;37;Man;Tyskland;Popuppreklam med musik;Husbil-Sport;4.52;3
+1909;Patrick Herrera;53;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;5.53;1
+1910;Caitlyn Wheeler;36;Kvinna;Danmark;Helsidereklam;Husbil-Familj;4.65;2
+1911;Mark Jones;30;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;4.55;1
+1912;Michael Miller;66;Man;Sverige;Popuppreklam med musik;Husbil-Familj;4.56;3
+1913;Amy Rosario;75;Man;Norge;Sidebarreklam;Husbil-Budget;5.52;0
+1914;Jocelyn King;18;Man;Sverige;Popuppreklam med musik;Husbil-Familj;4.57;2
+1915;Tammy Wright;44;Kvinna;Norge;Helsidereklam;Husbil-Familj;5.49;3
+1916;Bethany Nguyen;74;Man;Sverige;Helsidereklam;Husbil-Familj;4.74;1
+1917;Virginia Gamble;50;Man;Norge;Sidebarreklam;Husbil-Lyx;5.52;1
+1918;Ebony Cooper;73;Man;Sverige;Helsidereklam;Husbil-Sport;5.29;1
+1919;James Scott;63;Man;Sverige;Helsidereklam;Husbil-Budget;4.63;2
+1920;Monica Decker;60;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;5.47;2
+1921;Lauren Collins;28;Man;Norge;Sidebarreklam;Husbil-Familj;5.44;4
+1922;Nicholas Weiss;64;Man;Danmark;Sidebarreklam;Husbil-Budget;5.43;1
+1923;Brandon Wade;64;Kvinna;Danmark;Helsidereklam;Husbil-Lyx;5.24;1
+1924;Jeffrey Santiago;75;Kvinna;Norge;Sidebarreklam;Husbil-Lyx;5.41;2
+1925;Stacy Long;25;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;4.6;3
+1926;Virginia Powell;66;Man;Norge;Helsidereklam;Husbil-Sport;5.11;1
+1927;Erica Chavez;50;Man;Sverige;Helsidereklam;Husbil-Sport;5.34;1
+1928;Roger Johnston;23;Man;Norge;Helsidereklam;Husbil-Lyx;4.65;0
+1929;Robert Valentine;29;Man;Danmark;Helsidereklam;Husbil-Budget;4.67;4
+1930;John Arellano;37;Man;Danmark;Popuppreklam med musik;Husbil-Sport;4.61;1
+1931;Patricia Patterson;78;Man;Danmark;Helsidereklam;Husbil-Familj;5.2;1
+1932;Scott Hood;70;Kvinna;Norge;Sidebarreklam;Husbil-Sport;5.36;2
+1933;Matthew Lynch;30;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;4.65;2
+1934;James Mcdonald DDS;77;Man;Sverige;Popuppreklam med musik;Husbil-Sport;4.66;1
+1935;Lauren Walsh;31;Kvinna;Danmark;Sidebarreklam;Husbil-Lyx;5.34;3
+1936;Wendy Brown;32;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;4.68;1
+1937;Bryan Cummings;58;Kvinna;Danmark;Popuppreklam med musik;Husbil-Familj;4.7;3
+1938;Bradley Ortega;55;Man;Sverige;Popuppreklam med musik;Husbil-Sport;4.71;0
+1939;Joel Johnson;51;Man;Sverige;Popuppreklam med musik;Husbil-Sport;4.71;0
+1940;Laura Morse;29;Kvinna;Danmark;Helsidereklam;Husbil-Budget;5.18;1
+1941;Rachel Garrett;69;Kvinna;Danmark;Helsidereklam;Husbil-Sport;5.33;1
+1942;Cody James;21;Man;England;Popuppreklam med musik;Husbil-Budget;4.73;1
+1943;Nicholas Matthews;57;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;4.73;0
+1944;Tanya Morris;33;Man;Sverige;Sidebarreklam;Husbil-Sport;5.33;1
+1945;Rebecca Collins;58;Man;Norge;Popuppreklam med musik;Husbil-Budget;4.74;1
+1946;Jonathan Scott;29;Man;Sverige;Helsidereklam;Husbil-Familj;4.77;1
+1947;Brian Burns;40;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;5.33;2
+1948;Mark Mccoy;69;Kvinna;Norge;Helsidereklam;Husbil-Lyx;5.3;5
+1949;Brian Ortiz;49;Man;Norge;Helsidereklam;Husbil-Budget;5.09;2
+1950;Joseph Brock;56;Man;Norge;Helsidereklam;Husbil-Sport;4.75;0
+1951;Vanessa Lewis;51;Man;Sverige;Helsidereklam;Husbil-Sport;5.22;4
+1952;Lisa Mueller;39;Man;Norge;Popuppreklam med musik;Husbil-Budget;4.75;2
+1953;Suzanne Rodriguez;67;Man;Tyskland;Helsidereklam;Husbil-Lyx;4.77;2
+1954;Amber Gonzalez;21;Man;Norge;Popuppreklam med musik;Husbil-Budget;4.76;1
+1955;Eric Frank;41;Kvinna;Danmark;Helsidereklam;Husbil-Budget;5.27;0
+1956;Matthew Miller;36;Man;Sverige;Popuppreklam med musik;Husbil-Lyx;4.77;1
+1957;Amy Jones;64;Man;England;Popuppreklam med musik;Husbil-Lyx;4.79;0
+1958;Andrea Hogan;35;Man;Norge;Popuppreklam med musik;Husbil-Familj;4.8;3
+1959;Brian Martinez;20;Kvinna;Norge;Sidebarreklam;Husbil-Sport;5.31;1
+1960;Stacey Long;26;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;5.3;2
+1961;Alexandria Lyons;29;Man;Danmark;Popuppreklam med musik;Husbil-Familj;4.8;2
+1962;Spencer Pierce;47;Man;Norge;Sidebarreklam;Husbil-Lyx;5.27;0
+1963;Kevin Richard;20;Man;Norge;Sidebarreklam;Husbil-Budget;5.22;2
+1964;Thomas Shea;26;Kvinna;Norge;Sidebarreklam;Husbil-Familj;5.22;3
+1965;Ashley Aguilar;53;Man;Danmark;Helsidereklam;Husbil-Budget;5.17;0
+1966;Sharon Morris;28;Man;Sverige;Helsidereklam;Husbil-Familj;5.21;0
+1967;Bobby Allen;29;Kvinna;Norge;Helsidereklam;Husbil-Sport;4.89;1
+1968;Allison Allen;23;Kvinna;Sverige;Popuppreklam med musik;Husbil-Sport;4.81;3
+1969;Mary Simpson;50;Kvinna;Norge;Sidebarreklam;Husbil-Sport;5.21;2
+1970;Mrs. Megan Price;21;Man;Danmark;Popuppreklam med musik;Husbil-Budget;4.81;1
+1971;Emily Gaines;50;Kvinna;Sverige;Sidebarreklam;Husbil-Lyx;5.19;1
+1972;Kent Lyons;21;Man;Norge;Sidebarreklam;Husbil-Sport;5.19;1
+1973;Donna Baker;36;Man;Norge;Sidebarreklam;Husbil-Budget;5.17;0
+1974;Donna Cunningham;79;Kvinna;Sverige;Popuppreklam med musik;Husbil-Lyx;4.81;0
+1975;Kara Tucker;31;Man;Sverige;Helsidereklam;Husbil-Budget;5.06;0
+1976;Sean Fleming;54;Man;Sverige;Helsidereklam;Husbil-Budget;5.12;2
+1977;Steven Johnson;24;Kvinna;Danmark;Sidebarreklam;Husbil-Budget;5.14;0
+1978;Christine Vincent;26;Kvinna;Danmark;Popuppreklam med musik;Husbil-Budget;4.84;0
+1979;Rhonda Watson;45;Kvinna;Norge;Popuppreklam med musik;Husbil-Sport;4.85;2
+1980;Thomas Oneill;68;Kvinna;Danmark;Sidebarreklam;Husbil-Sport;5.13;1
+1981;Christine Brown;70;Kvinna;Danmark;Sidebarreklam;Husbil-Familj;5.13;0
+1982;John Long;34;Man;Norge;Sidebarreklam;Husbil-Familj;5.12;1
+1983;Brian Bailey;66;Man;Norge;Helsidereklam;Husbil-Familj;4.96;3
+1984;Kathryn Beard;27;Man;England;Popuppreklam med musik;Husbil-Budget;4.85;1
+1985;John Johnson;68;Man;Norge;Popuppreklam med musik;Husbil-Familj;4.85;2
+1986;Michael Rios;37;Kvinna;England;Sidebarreklam;Husbil-Budget;5.12;2
+1987;Brittany Anderson;25;Kvinna;Tyskland;Helsidereklam;Husbil-Sport;4.89;0
+1988;Kristen Cooper;30;Man;Sverige;Popuppreklam med musik;Husbil-Sport;4.91;1
+1989;Sarah Taylor;28;Man;Danmark;Sidebarreklam;Husbil-Familj;5.09;1
+1990;Juan Miller;73;Man;Norge;Sidebarreklam;Husbil-Sport;5.09;1
+1991;Robert Stanton;32;Man;Norge;Popuppreklam med musik;Husbil-Familj;4.92;1
+1992;Vanessa Thompson;51;Man;Tyskland;Helsidereklam;Husbil-Budget;5.06;1
+1993;Alexandra Martinez;51;Kvinna;Norge;Popuppreklam med musik;Husbil-Familj;4.96;1
+1994;Jason Malone;42;Man;Norge;Popuppreklam med musik;Husbil-Sport;4.97;1
+1995;Benjamin Copeland;66;Man;Norge;Popuppreklam med musik;Husbil-Budget;4.97;1
+1996;Kelsey Robles;76;Man;Sverige;Sidebarreklam;Husbil-Budget;5.06;0
+1997;Anthony Lynn;70;Man;Norge;Sidebarreklam;Husbil-Familj;5.04;4
+1998;Bradley Perez;30;Man;Norge;Helsidereklam;Husbil-Familj;5.02;3
+1999;Kelly Preston;46;Man;Sverige;Sidebarreklam;Husbil-Sport;5.04;1
