@@ -1,0 +1,54 @@
+WITH
+  events AS(
+  SELECT
+    event_date,
+    event_name,
+    platform,
+    user_pseudo_id,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'page_location') AS page_location,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'desicion') AS form_submitted_decision,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'ga_session_id') AS session_id,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'account_type') AS account_type,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'type') AS type,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'page_referrer') AS page_referrer,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'country_code') AS country_code,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'gtm') AS gtm,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'page_title') AS page_title,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'method') AS method,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'search_phrase') AS search_phrase,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'url') AS url,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'category') AS category,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'post') AS post,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'traffic_channel') AS traffic_channel,
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key = 'cookie_flags') AS cookie_flags,
+  --application_id OR transaction_id kan vara formaterat på olika sätt (både int eller string)
+    (SELECT value.string_value FROM UNNEST(event_params) WHERE key ='transaction_id' OR key = 'application_id') AS application_id_string,
+    CAST((SELECT value.int_value FROM UNNEST(event_params) WHERE key ='transaction_id' OR key = 'application_id') AS string) AS application_id_cast,
+  --we need to CAST amount so that it's always an int
+    (SELECT value.int_value FROM UNNEST(event_params) WHERE key = 'amount') AS amount_int,
+    (SELECT value.float_value FROM UNNEST(event_params) WHERE key = 'amount') AS amount_float,
+    (SELECT value.double_value FROM UNNEST(event_params) WHERE key = 'amount') AS amount_double
+  FROM
+    `resursbankapp.analytics_250952757.events_*` 
+  WHERE 
+  _table_suffix 
+  BETWEEN
+  FORMAT_DATE('%Y%m%d', (CURRENT_DATE()-7)) 
+  AND
+  FORMAT_DATE('%Y%m%d', CURRENT_DATE())
+  AND platform = 'WEB'
+  )
+
+  SELECT
+    event_date,
+    event_name,
+    platform, 
+    page_location,
+    form_submitted_decision,
+    account_type,
+    type,
+    CAST(COALESCE(amount_int, amount_float, amount_double) AS int64) AS amount,
+    COALESCE(application_id_string, application_id_cast) AS application_id
+  FROM 
+    events
+  WHERE event_name = "submitted_card";
